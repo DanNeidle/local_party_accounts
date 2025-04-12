@@ -1,0 +1,1082 @@
+number,unit_name,entity_name,success,reason,rental_income,tax_paid,rented_to_mp,approx_tax_rate
+ST0028221,Calder Valley,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028609,Cities of London & Westminster,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0028543,City of Chester,Conservative and Unionist Party,TRUE,,1144,,FALSE,0
+ST0028548,Mid Worcestershire,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028555,Workington,Conservative and Unionist Party,TRUE,,93,,FALSE,0
+ST0028562,Wantage,Conservative and Unionist Party,TRUE,,,619,FALSE,
+ST0028544,Devizes,Conservative and Unionist Party,TRUE,,,603,FALSE,
+ST0028549,Newcastle Upon Tyne,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0028551,Pudsey,Conservative and Unionist Party,TRUE,,17.15,16.9,FALSE,0.9854227405247813
+ST0028545,Dulwich & West Norwood,Conservative and Unionist Party,TRUE,,42950,,FALSE,0
+ST0028552,Saffron Walden,Conservative and Unionist Party,TRUE,,5517,,TRUE,0
+ST0028546,East Devon,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028553,Somerton & Frome,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028558,South Thanet,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028560,South West Surrey,Conservative and Unionist Party,TRUE,,5939,,TRUE,0
+ST0028547,Haltemprice & Howden,Conservative and Unionist Party,TRUE,,1335,,FALSE,0
+ST0028554,South East Cambridgeshire,Conservative and Unionist Party,TRUE,,0,77,FALSE,
+ST0028559,South West Bedfordshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028561,The Cotswolds,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028505,Beckenham and Penge,Conservative and Unionist Party,TRUE,,14062,4486,TRUE,0.31901578722799034
+ST0028512,North East Somerset and Hanham,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028536,Bassetlaw CLP,Labour Party,TRUE,,1485,83.29,TRUE,0.056087542
+ST0028506,Blackpool North and Fleetwood,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028513,Tonbridge,Conservative and Unionist Party,TRUE,,,140,FALSE,
+ST0028507,"Brecon, Radnor and Cwmtawe",Conservative and Unionist Party,TRUE,,3371,,FALSE,0
+ST0028514,Walsall and Bloxwich,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028508,Bromley and Biggin Hill,Conservative and Unionist Party,TRUE,,8774,1500,TRUE,0.17095965352176887
+ST0028510,Henley and Thame,Conservative and Unionist Party,TRUE,,,119930,FALSE,
+ST0028515,Weald of Kent,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028534,Grantham and Bourne,Conservative and Unionist Party,TRUE,,8250,847,FALSE,0.10266666666666667
+ST0028509,Staffordshire,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028511,Maidstone & Malling,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028525,Scotland,Liberal Democrats,TRUE,,3000,,FALSE,0
+ST0028526,Twickenham and Richmond,Liberal Democrats,TRUE,,0,4341.04,FALSE,
+ST0028522,ALDC,Liberal Democrats,TRUE,,2428,,FALSE,0
+ST0028527,Wales,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028528,"Westmorland, Furness and Eden",Liberal Democrats,TRUE,,19662.61,375.59,FALSE,0.019101736748071592
+ST0028303,Tatton,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028308,Swindon Federation,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028322,Southend East and Rochford,Conservative and Unionist Party,TRUE,,,760,FALSE,
+ST0028327,South West Hertfordshire,Conservative and Unionist Party,TRUE,,0,384,FALSE,
+ST0028334,South Devon,Conservative and Unionist Party,TRUE,,322,,FALSE,0
+ST0028353,Romford,Conservative and Unionist Party,TRUE,,25789,922,FALSE,0.035751677071619685
+ST0028358,Redditch,Conservative and Unionist Party,TRUE,,441.52,,FALSE,0
+ST0028360,Queen's Park and Maida Vale,Conservative and Unionist Party,TRUE,,,14156,FALSE,
+ST0028365,Perth and Kinross,Conservative and Unionist Party,TRUE,,4225,475,FALSE,0.11242603550295859
+ST0028377,North Shropshire,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028485,Brentford and Isleworth CLP,Labour Party,TRUE,,64711,5275,FALSE,0.08151628
+ST0027848,Dwyfor Meirionnydd,Plaid Cymru - The Party of Wales,TRUE,,4248,,FALSE,0
+ST0028296,Uxbridge and South Ruislip,Conservative and Unionist Party,TRUE,,30946,1280,TRUE,0.041362373166160406
+ST0028304,Taunton and Wellington,Conservative and Unionist Party,TRUE,,150,3199,FALSE,21.326666666666668
+ST0028323,Southampton Itchen,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028328,South West Devon,Conservative and Unionist Party,TRUE,,,100,FALSE,
+ST0028335,South Derbyshire,Conservative and Unionist Party,TRUE,,15318.48,,FALSE,0
+ST0028359,Reigate,Conservative and Unionist Party,TRUE,,3577,,FALSE,0
+ST0028366,Penrith and Solway,Conservative and Unionist Party,TRUE,,1,,FALSE,0
+ST0028373,North West Hampshire,Conservative and Unionist Party,TRUE,,4985,243,TRUE,0.048746239
+ST0028378,North Oxfordshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028481,Hereford and South Herefordshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028518,Pendle and Ribble Valley,Conservative and Unionist Party,TRUE,,3000,,TRUE,0
+ST0027849,Dwyrain Caerfyrddin a Dinefwr,Plaid Cymru - The Party of Wales,TRUE,,11200,,TRUE,0
+ST0028329,South Tees,Conservative and Unionist Party,TRUE,,9000,,FALSE,0
+ST0028336,South Cotswolds,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028355,Richmond Park,Conservative and Unionist Party,TRUE,,36461,3846,FALSE,0.10548257041770659
+ST0028362,Putney,Conservative and Unionist Party,TRUE,,76000,15000,FALSE,0.19736842105263158
+ST0028374,North West Cheshire,Conservative and Unionist Party,TRUE,,4452.65,5397.52,FALSE,1.2122039684232986
+ST0028379,North Herefordshire,Conservative and Unionist Party,TRUE,,6262.63,,FALSE,0
+ST0028482,Newcastle under Lyme,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028519,Rutland and Stamford,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028318,St Ives,Conservative and Unionist Party,TRUE,,982,638,FALSE,0.6496945010183299
+ST0028320,Southport,Conservative and Unionist Party,TRUE,,200,,FALSE,0
+ST0028325,South West Region,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028332,South Leicestershire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028337,South Cambridgeshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028356,Richmond and Northallerton,Conservative and Unionist Party,TRUE,,38556,60,FALSE,0.001556178
+ST0028363,Poole,Conservative and Unionist Party,TRUE,,11428,100.76,TRUE,0.008816941
+ST0028370,Old Bexley & Sidcup,Conservative and Unionist Party,TRUE,,5651,,TRUE,0
+ST0028375,North West Cambridgeshire,Conservative and Unionist Party,TRUE,,975,252,FALSE,0.25846153846153846
+ST0028438,North East Hampshire,Conservative and Unionist Party,TRUE,,4985,315,TRUE,0.063189569
+ST0028302,Tamworth,Conservative and Unionist Party,TRUE,,6014.91,,FALSE,0
+ST0028307,Tiverton and Minehead,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028319,St Albans,Conservative and Unionist Party,TRUE,,1358,,FALSE,0
+ST0028321,Southend West and leigh,Conservative and Unionist Party,TRUE,,12972,792,FALSE,0.061054579
+ST0028326,South West Norfolk,Conservative and Unionist Party,TRUE,,9372,,FALSE,0
+ST0028333,South Holland & The Deepings,Conservative and Unionist Party,TRUE,,9968,0,TRUE,0
+ST0028357,Rayleigh and Wickford,Conservative and Unionist Party,TRUE,,6000,,TRUE,0
+ST0028364,Peterborough,Conservative and Unionist Party,TRUE,,9138,,FALSE,0
+ST0028369,Orpington,Conservative and Unionist Party,TRUE,,37531,,FALSE,0
+ST0028371,Northumberland,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028376,North Somerset,Conservative and Unionist Party,TRUE,,25550,1299,FALSE,0.050841487279843445
+ST0027728,Skipton & Ripon,Conservative and Unionist Party,TRUE,,7500,,FALSE,0
+ST0028151,Wolverhampton,Conservative and Unionist Party,TRUE,,1630,,FALSE,0
+ST0028156,Windsor,Conservative and Unionist Party,TRUE,,15990,,FALSE,0
+ST0028163,Arundel & South Downs,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028170,Basildon and Thurrock Federation,Conservative and Unionist Party,TRUE,,7500,,FALSE,0
+ST0028175,Beverley & Holderness,Conservative and Unionist Party,TRUE,,3245,,TRUE,0
+ST0028207,Boston & Skegness,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028214,Bridgwater,Conservative and Unionist Party,TRUE,,3333,798,TRUE,0.23942394239423942
+ST0028219,Bury North and South,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028226,Central Staffordshire,Conservative and Unionist Party,TRUE,,700,,FALSE,0
+ST0028283,Woking,Conservative and Unionist Party,TRUE,,8439,1475,TRUE,0.17478374214954379
+ST0028288,West Worcestershire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028290,West Dorset,Conservative and Unionist Party,TRUE,,7874,,TRUE,0
+ST0028295,Welwyn Hatfield,Conservative and Unionist Party,TRUE,,46998,5223,FALSE,0.11113238861228138
+ST0028315,Suffolk Coastal,Conservative and Unionist Party,TRUE,,,100,FALSE,
+ST0028341,Shipley,Conservative and Unionist Party,TRUE,,6720,,FALSE,0
+ST0028346,Salisbury,Conservative and Unionist Party,TRUE,,15298,,TRUE,0
+ST0028384,North Cotswolds,Conservative and Unionist Party,TRUE,,300,,FALSE,0
+ST0028389,New Forest East,Conservative and Unionist Party,TRUE,,10317,,FALSE,0
+ST0028404,Islington,Conservative and Unionist Party,TRUE,,23500,4514,FALSE,0.1920851063829787
+ST0028409,Honiton and Sidmouth,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028411,High Peak,Conservative and Unionist Party,TRUE,,13787,406.41,FALSE,0.029477768912743892
+ST0028416,Harrow West,Conservative and Unionist Party,TRUE,,47032,5360.5,FALSE,0.11397559108691954
+ST0028428,Gloucester,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028430,Gainsborough,Conservative and Unionist Party,TRUE,,0,132,FALSE,
+ST0028435,Chichester,Conservative and Unionist Party,TRUE,,0,179,FALSE,
+ST0028442,Corby and East Northamptonshire,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028447,East Grinstead and Uckfield,Conservative and Unionist Party,TRUE,,292,143,FALSE,0.4897260273972603
+ST0028454,Epping Forest,Conservative and Unionist Party,TRUE,,15650,1615,TRUE,0.10319488817891374
+ST0028459,Dorking and Horley,Conservative and Unionist Party,TRUE,,12820,3460,FALSE,0.2698907956318253
+ST0028461,City of Coventry,Conservative and Unionist Party,TRUE,,112.99,,FALSE,0
+ST0028517,Hampstead and Highgate,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027595,Milton Keynes Labour Party,Labour Party,TRUE,,845,20.35,FALSE,0.024082840236686394
+ST0027766,Mitcham and Morden CLP,Labour Party,TRUE,,0,,FALSE,
+ST0027773,Sittingbourne and Sheppey CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027778,Wycombe CLP,Labour Party,TRUE,,0,102.93,FALSE,
+ST0028125,Slough CLP,Labour Party,TRUE,,0,,FALSE,
+ST0028152,Wokingham,Conservative and Unionist Party,TRUE,,6111,,FALSE,0
+ST0028171,Bassetlaw,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028210,Bournemouth West,Conservative and Unionist Party,TRUE,,14657,976,FALSE,0.066589343
+ST0028215,Bristol and South Gloucestershire,Conservative and Unionist Party,TRUE,,57508,1240,FALSE,0.021562217430618348
+ST0028227,Chatham & Aylesford,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028284,Winchester,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028289,West Lancashire,Conservative and Unionist Party,TRUE,,5163,0,FALSE,0
+ST0028291,Watford,Conservative and Unionist Party,TRUE,,13186,2637,FALSE,0.19998483239799789
+ST0028309,Sutton Coldfield,Conservative and Unionist Party,TRUE,,6486,55314,FALSE,8.528214616096207
+ST0028311,Sussex Weald,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028342,Sherwood Forest,Conservative and Unionist Party,TRUE,,117,,FALSE,0
+ST0028347,Rushcliffe,Conservative and Unionist Party,TRUE,,21900,4845,TRUE,0.22123287671232877
+ST0028385,North Bedfordshire,Conservative and Unionist Party,TRUE,,933,250,FALSE,0.2679528403001072
+ST0028392,Mid Derbyshire and Derby,Conservative and Unionist Party,TRUE,,2101,,FALSE,0
+ST0028397,Lewes,Conservative and Unionist Party,TRUE,,749,34,FALSE,0.045393858
+ST0028400,Kettering,Conservative and Unionist Party,TRUE,,176,,FALSE,0
+ST0028405,Isle of Wight,Conservative and Unionist Party,TRUE,,7145,11,FALSE,0.001539538
+ST0028417,Harrow East,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028424,Gravesham,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028429,Gedling,Conservative and Unionist Party,TRUE,,75,,FALSE,0
+ST0028431,Forest of Dean,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028436,Chingford & Woodford Green,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028448,East Hampshire,Conservative and Unionist Party,TRUE,,0,584,FALSE,
+ST0028450,East Surrey,Conservative and Unionist Party,TRUE,,12373,2656,FALSE,0.21466095530590804
+ST0028455,Eastbourne,Conservative and Unionist Party,TRUE,,,359,FALSE,
+ST0027591,Bromley and Chislehurst CLP,Labour Party,TRUE,,25636,1517,FALSE,0.059174598221251366
+ST0027596,Putney CLP,Labour Party,TRUE,,1380,0,TRUE,0
+ST0027748,Barrow and Furness CLP,Labour Party,TRUE,,3823.3,0,FALSE,0
+ST0027750,Bournemouth East and West CLP,Labour Party,TRUE,,0,1457.58,FALSE,
+ST0027755,Greenwich and Woolwich CLP,Labour Party,TRUE,,19547.36,1050.32,FALSE,0.053732064074125604
+ST0027762,Lewes CLP,Labour Party,TRUE,,14784.33,1959.68,FALSE,0.13255115382300045
+ST0027933,Guildford CLP,Labour Party,TRUE,,22203,2480,FALSE,0.11169661757420168
+ST0028119,Barnet Local Campaign Forum,Labour Party,TRUE,,0,0,FALSE,
+ST0028126,West Bromwich East CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0028140,Oxfordshire,Green Party,TRUE,,0,0,FALSE,
+ST0028157,North West Region,Green Party,TRUE,,,504,FALSE,
+ST0028146,York,Conservative and Unionist Party,TRUE,,8500,470,FALSE,0.055294118
+ST0028153,Witham,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028177,Bexhill & Battle,Conservative and Unionist Party,TRUE,,229,,FALSE,0
+ST0028184,Bexleyheath & Crayford,Conservative and Unionist Party,TRUE,,32902.85,5630.27,FALSE,0.17111800345562772
+ST0028191,Bolton West,Conservative and Unionist Party,TRUE,,4800,,FALSE,0
+ST0028209,Bournemouth East,Conservative and Unionist Party,TRUE,,11851,0,TRUE,0
+ST0028211,Bracknell,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028216,Bromsgrove,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028223,Canterbury,Conservative and Unionist Party,TRUE,,,3439,FALSE,
+ST0028228,Chelmsford,Conservative and Unionist Party,TRUE,,25242,,TRUE,0
+ST0028285,Wimbledon,Conservative and Unionist Party,TRUE,,459,108,FALSE,0.23529411764705882
+ST0028292,Warwick & Leamington,Conservative and Unionist Party,TRUE,,0,5,FALSE,
+ST0028297,Twickenham,Conservative and Unionist Party,TRUE,,17520,837,FALSE,0.047773972602739724
+ST0028300,Tooting,Conservative and Unionist Party,TRUE,,24240,,FALSE,0
+ST0028305,Thirsk and Malton,Conservative and Unionist Party,TRUE,,2100,0,FALSE,0
+ST0028312,Surrey Heath,Conservative and Unionist Party,TRUE,,21633,9,TRUE,0.000416031
+ST0028317,Stratford on Avon,Conservative and Unionist Party,TRUE,,10554,3315,FALSE,0.31409891984081867
+ST0028343,Sevenoaks,Conservative and Unionist Party,TRUE,,,0,TRUE,
+ST0028348,Runnymede & Weybridge,Conservative and Unionist Party,TRUE,,0,3040,FALSE,
+ST0028350,Rugby,Conservative and Unionist Party,TRUE,,7.67,0,FALSE,0
+ST0028381,North Dorset,Conservative and Unionist Party,TRUE,,6494,,TRUE,0
+ST0028386,Norfolk North West,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028393,Mid Bedfordshire,Conservative and Unionist Party,TRUE,,,606,FALSE,
+ST0028398,Leicester,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028401,"Kensington, Bayswater, Chelsea and Fulham",Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028406,Ipswich,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028413,Hemel Hempstead,Conservative and Unionist Party,TRUE,,50,100,FALSE,2
+ST0028418,Harrogate & Knaresborough,Conservative and Unionist Party,TRUE,,14789,9597,TRUE,0.648928257
+ST0028420,"Harborough, Oadby and Wigston",Conservative and Unionist Party,TRUE,,1087,,TRUE,0
+ST0028425,Gosport,Conservative and Unionist Party,TRUE,,9800,1627,FALSE,0.1660204081632653
+ST0028432,Finchley & Golders Green,Conservative and Unionist Party,TRUE,,20000,4008,FALSE,0.2004
+ST0028449,East Lothian,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028451,Esher & Walton,Conservative and Unionist Party,TRUE,,600,,FALSE,0
+ST0028456,East Worthing and Shoreham,Conservative and Unionist Party,TRUE,,12792,2432,FALSE,0.19011882426516574
+ST0027597,St Albans CLP,Labour Party,TRUE,,36911,4315,FALSE,0.1169028202974723
+ST0027749,Braintree and Witham CLP,Labour Party,TRUE,,26500,6798,FALSE,0.25652830188679243
+ST0027751,Cambridge CLP,Labour Party,TRUE,,11432,,FALSE,0
+ST0027756,Hackney Local Campaign Forum,Labour Party,TRUE,,,25,FALSE,
+ST0027763,Loughborough CLP,Labour Party,TRUE,,7664,810.92,FALSE,0.1058089770354906
+ST0027768,Norwich North and South CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027775,Stevenage CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0028122,Harrow West CLP,Labour Party,TRUE,,11400,,FALSE,0
+ST0028158,Gedling CLP,Labour Party,TRUE,,,,FALSE,
+ST0027788,Stockton-on-Tees,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028147,Yeovil,Conservative and Unionist Party,TRUE,,31893,2500,FALSE,0.078387107
+ST0028154,Wirral West,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028161,Aberdeenshire,Conservative and Unionist Party,TRUE,,15030,2982,FALSE,0.19840319361277445
+ST0028166,"Barnsley, Penistone & Stocksbridge Federation",Conservative and Unionist Party,TRUE,,9800.6,,FALSE,0
+ST0028173,Battersea,Conservative and Unionist Party,TRUE,,22100,3752,FALSE,0.1697737556561086
+ST0028212,Braintree,Conservative and Unionist Party,TRUE,,,2721,FALSE,
+ST0028217,Broxbourne,Conservative and Unionist Party,TRUE,,,8,FALSE,
+ST0028224,Castle Point,Conservative and Unionist Party,TRUE,,3630,,FALSE,0
+ST0028229,Cheltenham,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028231,Chester South and Eddisbury,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028286,Wetherby and Easingwold,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028293,Warrington,Conservative and Unionist Party,TRUE,,13200,2340,FALSE,0.17727272727272728
+ST0028298,Torridge and Tavistock,Conservative and Unionist Party,TRUE,,,224,FALSE,
+ST0028306,Thornbury and Yate,Conservative and Unionist Party,TRUE,,28471,3227,FALSE,0.11334340205823469
+ST0028313,Suffolk West,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028344,Scottish Borders,Conservative and Unionist Party,TRUE,,7200,10801,FALSE,1.500138888888889
+ST0028349,"Ruislip, Northwood and Pinner",Conservative and Unionist Party,TRUE,,0,66,FALSE,
+ST0028351,Rotheram and District Federation,Conservative and Unionist Party,TRUE,,0,65.84,FALSE,
+ST0028382,North Devon,Conservative and Unionist Party,TRUE,,7899,305,FALSE,0.038612482592733255
+ST0028387,Newbury,Conservative and Unionist Party,TRUE,,30124,3383,FALSE,0.11230248306997742
+ST0028394,Maidenhead,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028399,Kingston & Surbiton,Conservative and Unionist Party,TRUE,,1223.64,,FALSE,0
+ST0028402,Kenilworth and Southam,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028407,Hyndburn,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028419,Harlow,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028426,Goole and Pocklington,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0028433,Farnham and Bordon,Conservative and Unionist Party,TRUE,,1587,,FALSE,0
+ST0028440,Stoke on Trent,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028445,Didcot and Wantage,Conservative and Unionist Party,TRUE,,,836,FALSE,
+ST0028452,Erewash,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028457,East Wiltshire,Conservative and Unionist Party,TRUE,,,56,FALSE,
+ST0027593,Dulwich and West Norwood CLP,Labour Party,TRUE,,2138.68,0,TRUE,0
+ST0027598,Watford CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027752,Chelsea and Fulham CLP,Labour Party,TRUE,,0,50.3,FALSE,
+ST0027757,Hendon CLP,Labour Party,TRUE,,0,0,TRUE,
+ST0027764,Mansfield CLP,Labour Party,TRUE,,10828.47,0,FALSE,0
+ST0027776,Stroud CLP,Labour Party,TRUE,,0,25.9,FALSE,
+ST0027795,Manchester Local Campaign Forum,Labour Party,TRUE,,,,FALSE,
+ST0027834,York Central and Outer CLP,Labour Party,TRUE,,5630.26,200,FALSE,0.035522338
+ST0028123,Holborn and St Pancras CLP,Labour Party,TRUE,,0,103.7,FALSE,
+ST0028142,Reading East and West CLP,Labour Party,TRUE,,0,,FALSE,
+ST0028159,Exeter CLP,Labour Party,TRUE,,54544,3839,FALSE,0.070383544
+ST0028301,Beckenham and Penge,Labour Party,TRUE,,0,6.55,TRUE,
+ST0028148,Wyre Forest,Conservative and Unionist Party,TRUE,,5400,1062,FALSE,0.19666666666666666
+ST0028150,Worthing West,Conservative and Unionist Party,TRUE,,17800,1858,FALSE,0.10438202247191011
+ST0028162,Altrincham & Sale West,Conservative and Unionist Party,TRUE,,8337,,FALSE,0
+ST0028167,Aylesbury,Conservative and Unionist Party,TRUE,,225448,52366,TRUE,0.23227529186331217
+ST0028174,Beaconsfield,Conservative and Unionist Party,TRUE,,18050,1878,FALSE,0.1040443213296399
+ST0028213,Brentwood & Ongar,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028218,Buckingham and Bletchley and Mid Buckingham,Conservative and Unionist Party,TRUE,,16860,3205,FALSE,0.19009489916963226
+ST0028220,Bury St Edmunds and Stowmarket,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028225,Central Devon,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028287,Westmorland & Lonsdale,Conservative and Unionist Party,TRUE,,0,470,FALSE,
+ST0028294,Witney,Conservative and Unionist Party,TRUE,,,313.88,FALSE,
+ST0028299,Torbay,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0028314,Suffolk South,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028338,South Ayrshire,Conservative and Unionist Party,TRUE,,10012,1891,FALSE,0.18887335197762684
+ST0028340,Shrewsbury,Conservative and Unionist Party,TRUE,,4800,,TRUE,0
+ST0028345,Scarborough & Whitby,Conservative and Unionist Party,TRUE,,1000,,FALSE,0
+ST0028352,Rossendale & Darwen,Conservative and Unionist Party,TRUE,,7791,0,TRUE,0
+ST0028383,North Derbyshire,Conservative and Unionist Party,TRUE,,0,87.24,FALSE,
+ST0028388,Newark,Conservative and Unionist Party,TRUE,,5798,48,FALSE,0.008278717
+ST0028390,Milton Keynes,Conservative and Unionist Party,TRUE,,,302,FALSE,
+ST0028395,Macclesfield,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028403,Keighley and Ilkley,Conservative and Unionist Party,TRUE,,1500,,FALSE,0
+ST0028408,Horsham,Conservative and Unionist Party,TRUE,,14000,1941,FALSE,0.13864285714285715
+ST0028410,Hinckley and Bosworth,Conservative and Unionist Party,TRUE,,13485,2229,TRUE,0.16529477196885428
+ST0028422,Guildford,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0028427,Goldalming and Ash,Conservative and Unionist Party,TRUE,,6108,,FALSE,0
+ST0028434,Fareham and Waterlooville,Conservative and Unionist Party,TRUE,,17501,0,TRUE,0
+ST0028439,City of Edinburgh,Conservative and Unionist Party,TRUE,,35482,5102,FALSE,0.14379121808240797
+ST0028441,Clacton,Conservative and Unionist Party,TRUE,,13185.53,,TRUE,0
+ST0028453,Epsom & Ewell,Conservative and Unionist Party,TRUE,,3878,920,FALSE,0.2372356884992264
+ST0028458,Dover and Deal,Conservative and Unionist Party,TRUE,,14592,,TRUE,0
+ST0028465,Broadland and Fakenham,Conservative and Unionist Party,TRUE,,5500,,FALSE,0
+ST0027594,Gillingham and Rainham CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027599,Welwyn Hatfield CLP,Labour Party,TRUE,,,278.12,FALSE,
+ST0027753,Chipping Barnet CLP,Labour Party,TRUE,,4800,3520.23,TRUE,0.73338125
+ST0027758,Ipswich CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027760,Islington South and Finsbury CLP,Labour Party,TRUE,,23856,,TRUE,0
+ST0027765,Midlothian North and Musselburgh CLP,Labour Party,TRUE,,0,0,TRUE,
+ST0028124,Penistone and Stocksbridge CLP,Labour Party,TRUE,,0,,FALSE,
+ST0028143,Truro and Falmouth CLP,Labour Party,TRUE,,1819,,FALSE,0
+ST0028155,South Cambridgeshire CLP,Labour Party,TRUE,,0,18.75,TRUE,
+ST0027602,Ynys Mon,Plaid Cymru - The Party of Wales,TRUE,,11436.66,,TRUE,0
+ST0027931,Wealden,Green Party,TRUE,,0,0,FALSE,
+ST0028017,Aylesbury,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028024,Cambridge,Liberal Democrats,TRUE,,3483.34,102.44,FALSE,0.029408556155873383
+ST0028029,Cheltenham,Liberal Democrats,TRUE,,1200,,FALSE,0
+ST0028031,Chichester,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028036,East of England,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028048,Hazel Grove,Liberal Democrats,TRUE,,240,16.3,FALSE,0.067916667
+ST0028050,Hertfordshire County Co-ordinating Committee,Liberal Democrats,TRUE,,0,15.77,FALSE,
+ST0028055,Kingston Borough,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028062,Mid Dorset and North Poole,Liberal Democrats,TRUE,,1308.83,,FALSE,0
+ST0028067,Newton Abbot,Liberal Democrats,TRUE,,0,68.1,FALSE,
+ST0028074,North West,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028079,Portsmouth,Liberal Democrats,TRUE,,7000,342.32,FALSE,0.048902857142857144
+ST0028081,Yeovil,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028086,Torbay,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028093,South East,Liberal Democrats,TRUE,,1008,,FALSE,0
+ST0028098,St Albans,Liberal Democrats,TRUE,,5810,265,FALSE,0.045611015
+ST0028101,Surrey Heath,Liberal Democrats,TRUE,,800,229.17,FALSE,0.2864625
+ST0028106,Welwyn Hatfield,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028113,Winchester District,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028144,Colchester,Liberal Democrats,TRUE,,0,88.25,FALSE,
+ST0028473,Taunton and Wellington,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028018,Bath and North East Somerset,Liberal Democrats,TRUE,,11867.57,,FALSE,0
+ST0028025,Cambridgeshire County Co-Ordinating Committee,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028032,Chippenham,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028037,East Riding,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028044,Gateshead,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028049,"Hereford, North Hereford and South Hereford",Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028051,Highlands,Liberal Democrats,TRUE,,677.2,,FALSE,0
+ST0028056,Leeds,Liberal Democrats,TRUE,,0,231.19,FALSE,
+ST0028063,Mid Sussex,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028068,North Devon,Liberal Democrats,TRUE,,84.31,0,FALSE,0
+ST0028070,North East and Central Fife,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028075,Oxford West and Abingdon,Liberal Democrats,TRUE,,4693.28,,FALSE,0
+ST0028082,York,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028087,Trafford,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028094,South Edinburgh,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028099,St Ives,Liberal Democrats,TRUE,,0,148.6,FALSE,
+ST0028102,Sutton,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028107,West Berkshire and Newbury,Liberal Democrats,TRUE,,22817.9,2203.75,FALSE,0.096579878
+ST0028114,Windsor and Maidenhead,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028474,"Honiton, Sidmouth and Tiverton",Liberal Democrats,TRUE,,0,,FALSE,
+ST0028019,Bedford,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028021,Bosworth,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028026,Camden Borough,Liberal Democrats,TRUE,,1799.92,175.08,FALSE,0.09727099
+ST0028033,East Cambridgeshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028038,Eastbourne,Liberal Democrats,TRUE,,15202,,FALSE,0
+ST0028040,Edinburgh West,Liberal Democrats,TRUE,,8350,0,FALSE,0
+ST0028045,Guildford,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028052,Horsham,Liberal Democrats,TRUE,,0,0.9,FALSE,
+ST0028057,Lewes,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028064,Milton Keynes,Liberal Democrats,TRUE,,4918.04,,FALSE,0
+ST0028069,North East,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028071,North Hertfordshire & Stevenage,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028076,Parliamentary Party In The Lords,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028083,Yorkshire and the Humber,Liberal Democrats,TRUE,,0,137.1,FALSE,
+ST0028088,Tunbridge Wells,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028090,Sheffield,Liberal Democrats,TRUE,,15862.26,,FALSE,0
+ST0028095,South Gloucestershire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028103,Warwick District,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028108,West Dorset,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028110,West Midlands,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028115,Woking,Liberal Democrats,TRUE,,0,541.29,FALSE,
+ST0028470,Henley and Thame,Liberal Democrats,TRUE,,0,65.84,FALSE,
+ST0028475,Didcot and Wantage,Liberal Democrats,TRUE,,277,85.34,FALSE,0.308086643
+ST0028022,"Brecon, Radnor and Cwm Tawe",Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028027,Cheadle,Liberal Democrats,TRUE,,0,48,FALSE,
+ST0028034,East Dunbartonshire,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028039,Eastleigh,Liberal Democrats,TRUE,,2161.6,217.14,FALSE,0.10045336787564767
+ST0028041,Elmbridge,Liberal Democrats,TRUE,,0,537,FALSE,
+ST0028046,Haringey Borough,Liberal Democrats,TRUE,,0,132.1,FALSE,
+ST0028053,Hull,Liberal Democrats,TRUE,,562.02,523.64,FALSE,0.931710615
+ST0028058,Liverpool,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028060,Manchester,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028065,Mole Valley,Liberal Democrats,TRUE,,1066.38,,FALSE,0
+ST0028072,North Norfolk and Great Yarmouth,Liberal Democrats,TRUE,,0,30,FALSE,
+ST0028077,Pembrokeshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028084,Young Liberals,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028089,Scottish Parliamentary Party,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028091,South Cambridgeshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028096,South Hams,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028104,Watford,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028109,West Hertfordshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028111,Western Counties,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028116,Wokingham Borough,Liberal Democrats,TRUE,,0,412.39,FALSE,
+ST0028476,Wells and Mendip Hills,Liberal Democrats,TRUE,,5628,870.58,FALSE,0.15468727789623313
+ST0028023,Bristol,Liberal Democrats,TRUE,,0,405.46,FALSE,
+ST0028028,"Chelmsford, Maldon & Braintree",Liberal Democrats,TRUE,,5667.48,,FALSE,0
+ST0028030,Chesham and Amersham,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028035,East Midlands,Liberal Democrats,TRUE,,0,1.08,FALSE,
+ST0028042,Epsom & Ewell,Liberal Democrats,TRUE,,0,62,FALSE,
+ST0028047,Harrogate and Knaresborough,Liberal Democrats,TRUE,,0,150,FALSE,
+ST0028054,Kensington and Chelsea Borough,Liberal Democrats,TRUE,,0,456.12,FALSE,
+ST0028059,London,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028061,Merton Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0028066,Newcastle upon Tyne,Liberal Democrats,TRUE,,0,52.25,FALSE,
+ST0028073,North Shropshire,Liberal Democrats,TRUE,,833.34,,FALSE,0
+ST0028078,Poole,Liberal Democrats,TRUE,,0,131.98,FALSE,
+ST0028080,Preston and Wyre,Liberal Democrats,TRUE,,0,0.9,FALSE,
+ST0028085,Test Valley,Liberal Democrats,TRUE,,2075.99,91.13,FALSE,0.043897129
+ST0028092,South Central,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028097,Southwark Borough,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028100,Stratford on Avon,Liberal Democrats,TRUE,,4906.39,80.34,FALSE,0.016374565
+ST0028105,Waverley,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0028112,Westminster Borough,Liberal Democrats,TRUE,,0,511.95,FALSE,
+ST0028477,Witney,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027482,Bedford,Conservative and Unionist Party,TRUE,,1269.9,,FALSE,0
+ST0027487,St Albans CLP,Labour Party,TRUE,,41303,3688,FALSE,0.089291335
+ST0027494,Harrow West CLP,Labour Party,TRUE,,13206.25,,FALSE,0
+ST0027483,Sutton Coldfield,Conservative and Unionist Party,TRUE,,12000,55314,FALSE,4.6095
+ST0027488,Stroud CLP,Labour Party,TRUE,,0,27.1,FALSE,
+ST0027484,Harrow West CLP,Labour Party,TRUE,,10606.25,,FALSE,0
+ST0027486,East Lothian CLP,Labour Party,TRUE,,2555,358,FALSE,0.1401174168297456
+ST0027493,Barnet Local Campaign Forum,Labour Party,TRUE,,0,0,FALSE,
+ST0027481,Lewes,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027475,Liverpool,Liberal Democrats,TRUE,,0,71.2,FALSE,
+ST0027472,Yorkshire and the Humber,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027474,Liverpool,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027469,Stroud CLP,Labour Party,TRUE,,0,,FALSE,
+ST0027457,Ipswich CLP,Labour Party,TRUE,,3000,0,TRUE,0
+ST0027196,Scotland,Liberal Democrats,TRUE,,3000,,FALSE,0
+ST0027456,Preston and Wyre,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027193,ALDC,Liberal Democrats,TRUE,,2478,,FALSE,0
+ST0027214,"Westmorland, Furness and Eden",Liberal Democrats,TRUE,,30185.06,618.08,FALSE,0.020476354858993157
+ST0027171,Cities of London & Westminster,Conservative and Unionist Party,TRUE,,,6275,FALSE,
+ST0027176,"Kensington, Chelsea and Fulham",Conservative and Unionist Party,TRUE,,,9,FALSE,
+ST0027222,Winchester District,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026903,Epsom & Ewell,Conservative and Unionist Party,TRUE,,3992,644,FALSE,0.16132264529058116
+ST0026908,Finchley & Golders Green,Conservative and Unionist Party,TRUE,,20000,5263,FALSE,0.26315
+ST0026910,Forest of Dean,Conservative and Unionist Party,TRUE,,300,,FALSE,0
+ST0026953,Maidstone & Weald,Conservative and Unionist Party,TRUE,,,84,FALSE,
+ST0026989,Penrith & The Border,Conservative and Unionist Party,TRUE,,,61,FALSE,
+ST0026991,Peterborough,Conservative and Unionist Party,TRUE,,14875,,FALSE,0
+ST0026996,Reigate,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027007,Salisbury,Conservative and Unionist Party,TRUE,,12081,,TRUE,0
+ST0027266,Grantham & Stamford,Conservative and Unionist Party,TRUE,,16850,847,FALSE,0.050267062
+ST0027273,Harrogate & Knaresborough,Conservative and Unionist Party,TRUE,,27476,0,TRUE,0
+ST0027280,Havant,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027285,Hereford and South Herefordshire,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027292,Highland,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027297,Isle of Wight,Conservative and Unionist Party,TRUE,,8634,42,FALSE,0.004864489
+ST0027312,Mole Valley,Conservative and Unionist Party,TRUE,,13600,,FALSE,0
+ST0027317,Newbury,Conservative and Unionist Party,TRUE,,29720,3800,FALSE,0.1278600269179004
+ST0027324,North East Bedfordshire,Conservative and Unionist Party,TRUE,,2028,299,FALSE,0.14743589743589744
+ST0027329,North West Hampshire,Conservative and Unionist Party,TRUE,,4985,0,FALSE,0
+ST0027336,Rugby,Conservative and Unionist Party,TRUE,,840.59,,FALSE,0
+ST0027343,Scottish Borders,Conservative and Unionist Party,TRUE,,7200,1130,FALSE,0.15694444444444444
+ST0027348,Skipton & Ripon,Conservative and Unionist Party,TRUE,,7548,1434,FALSE,0.18998410174880764
+ST0027350,Somerset,Conservative and Unionist Party,TRUE,,95620,,FALSE,0
+ST0027367,Stockton,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027374,Surrey Heath,Conservative and Unionist Party,TRUE,,21264,0,TRUE,0
+ST0027379,The Cotswolds,Conservative and Unionist Party,TRUE,,293,142,FALSE,0.48464163822525597
+ST0026535,Bromley and Chislehurst CLP,Labour Party,TRUE,,7427,4216,FALSE,0.5676585431533594
+ST0027064,Reading East and West CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027393,Guildford CLP,Labour Party,TRUE,,32154,4349,FALSE,0.13525533370653728
+ST0027401,Manchester Local Campaign Forum,Labour Party,TRUE,,,,FALSE,
+ST0026559,Elmbridge,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026561,Haringey Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026612,Taunton Deane,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027381,Cheltenham,Liberal Democrats,TRUE,,1100,,FALSE,0
+ST0027386,East of England,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027418,Lewes,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027420,Manchester,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027425,Newcastle upon Tyne,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027432,Oxford West and Abingdon,Liberal Democrats,TRUE,,610.38,0,FALSE,0
+ST0027437,Sheffield,Liberal Democrats,TRUE,,9942.09,,FALSE,0
+ST0026904,Erewash,Conservative and Unionist Party,TRUE,,738,,FALSE,0
+ST0026909,Folkestone & Hythe,Conservative and Unionist Party,TRUE,,10500,,TRUE,0
+ST0026911,Glasgow,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026992,Poole,Conservative and Unionist Party,TRUE,,10846,189,TRUE,0.017425779089065094
+ST0026997,Richmond (Yorks),Conservative and Unionist Party,TRUE,,13613,50,FALSE,0.00367296
+ST0027279,Hastings & Rye,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027281,Hazel Grove,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027286,Herefordshire and Shropshire,Conservative and Unionist Party,TRUE,,6831.96,,FALSE,0
+ST0027293,Hitchin & Harpenden,Conservative and Unionist Party,TRUE,,670,,FALSE,0
+ST0027298,Islington,Conservative and Unionist Party,TRUE,,23500,4536,FALSE,0.19302127659574467
+ST0027301,Kettering,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027306,Maidenhead,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027313,Monmouth,Conservative and Unionist Party,TRUE,,16000,,TRUE,0
+ST0027318,Newcastle under Lyme,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027320,North Ayrshire,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0027325,North East Somerset,Conservative and Unionist Party,TRUE,,0,10,FALSE,
+ST0027332,Northumberland MCA,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027337,Runnymede & Weybridge,Conservative and Unionist Party,TRUE,,0,2470,FALSE,
+ST0027344,Selby and Ainsty,Conservative and Unionist Party,TRUE,,4750,159,TRUE,0.033473684210526315
+ST0027356,South East Cambridgeshire,Conservative and Unionist Party,TRUE,,0,137,FALSE,
+ST0027363,St Albans,Conservative and Unionist Party,TRUE,,705,,FALSE,0
+ST0027368,Stone,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027370,Stratford on Avon,Conservative and Unionist Party,TRUE,,10878,1686,FALSE,0.15499172642029785
+ST0027375,Sussex,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027394,Hackney Local Campaign Forum,Labour Party,TRUE,,,25,TRUE,
+ST0027399,Islington South and Finsbury CLP,Labour Party,TRUE,,14314,,TRUE,0
+ST0027402,Milton Keynes Labour Party,Labour Party,TRUE,,845,26.8,FALSE,0.031715976331360946
+ST0026562,Harrogate and Knaresborough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026606,Southwark Borough,Liberal Democrats,TRUE,,0,161.6,FALSE,
+ST0026613,The Cotswolds,Liberal Democrats,TRUE,,172.97,131.37,FALSE,0.7594958663352027
+ST0027267,Cambridgeshire County Co-Ordinating Committee,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027274,Camden Borough,Liberal Democrats,TRUE,,14302.54,152.54,FALSE,0.010665238482115763
+ST0027387,Eastbourne,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027419,London,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027421,Merton Borough,Liberal Democrats,TRUE,,,,FALSE,
+ST0027426,North East,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027433,Parliamentary Party In The Lords,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027438,Somerton and Frome,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027440,South Cambridgeshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026897,Eddisbury,Conservative and Unionist Party,TRUE,,472,,FALSE,0
+ST0026905,Esher & Walton,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026974,North East Hampshire,Conservative and Unionist Party,TRUE,,0,238.01,FALSE,
+ST0026993,Pudsey,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026998,Richmond Park,Conservative and Unionist Party,TRUE,,61751,3264,FALSE,0.052857444
+ST0027263,Gloucester,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027268,Greenwich,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027270,Haltemprice & Howden,Conservative and Unionist Party,TRUE,,2217,,FALSE,0
+ST0027275,Harrow East,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027294,Horsham,Conservative and Unionist Party,TRUE,,14000,2060,FALSE,0.14714285714285713
+ST0027299,Kenilworth and Southam,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027302,Kingston & Surbiton,Conservative and Unionist Party,TRUE,,2975,196,FALSE,0.065882353
+ST0027307,Meon Valley,Conservative and Unionist Party,TRUE,,0,5,FALSE,
+ST0027314,Montgomeryshire,Conservative and Unionist Party,TRUE,,12550,,TRUE,0
+ST0027321,North Derbyshire,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027326,North Shropshire,Conservative and Unionist Party,TRUE,,-825,,FALSE,
+ST0027333,Norwich,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027338,Rushcliffe,Conservative and Unionist Party,TRUE,,21900,4072,TRUE,0.18593607305936072
+ST0027340,Saffron Walden,Conservative and Unionist Party,TRUE,,6290,96,TRUE,0.015262321144674086
+ST0027345,Sevenoaks,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0027352,South Ayrshire,Conservative and Unionist Party,TRUE,,10012,1924,FALSE,0.1921693967239313
+ST0027357,South Leicestershire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027364,St Ives,Conservative and Unionist Party,TRUE,,2997,495,FALSE,0.16516516516516516
+ST0027376,Sutton Federation,Conservative and Unionist Party,TRUE,,14700,2053,FALSE,0.13965986394557822
+ST0027403,Mitcham and Morden CLP,Labour Party,TRUE,,0,0,TRUE,
+ST0026549,Dwyfor Meirionnydd,Plaid Cymru - The Party of Wales,TRUE,,8059,,FALSE,0
+ST0026563,Hazel Grove,Liberal Democrats,TRUE,,5059.79,,FALSE,0
+ST0026607,St Albans,Liberal Democrats,TRUE,,6453,298,FALSE,0.046180071284673795
+ST0026614,Trafford,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027155,Henley,Liberal Democrats,TRUE,,0,63.2,FALSE,
+ST0027282,Central Devon,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027287,Cheadle,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027383,Ealing Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027415,Kensington and Chelsea Borough,Liberal Democrats,TRUE,,0,213.42,FALSE,
+ST0027422,Mid Dorset and North Poole,Liberal Democrats,TRUE,,1800,,FALSE,0
+ST0027427,North East and Central Fife,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027434,Poole,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027441,South Central,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026898,Elmet and Rothwell,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026906,Fareham,Conservative and Unionist Party,TRUE,,15841,0,TRUE,0
+ST0026994,Putney,Conservative and Unionist Party,TRUE,,71250,12650,FALSE,0.1775438596491228
+ST0026999,Romford,Conservative and Unionist Party,TRUE,,1650,224,FALSE,0.13575757575757577
+ST0027000,Rossendale & Darwen,Conservative and Unionist Party,TRUE,,2944,0,TRUE,0
+ST0027055,Thirsk and Malton,Conservative and Unionist Party,TRUE,,4200,368,FALSE,0.087619048
+ST0027269,Guildford,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027271,Hampstead and Kilburn,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027276,Harrow West,Conservative and Unionist Party,TRUE,,,436,FALSE,
+ST0027288,Hertfordshire North East,Conservative and Unionist Party,TRUE,,8040,781,FALSE,0.097139303
+ST0027290,Hertsmere,Conservative and Unionist Party,TRUE,,9956,,FALSE,0
+ST0027295,Huntingdon,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027303,Lewes,Conservative and Unionist Party,TRUE,,176,15,FALSE,0.085227273
+ST0027308,Meriden,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027310,Mid Sussex,Conservative and Unionist Party,TRUE,,1444,,FALSE,0
+ST0027315,Moray,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027322,North Devon,Conservative and Unionist Party,TRUE,,1973,329,FALSE,0.16675114039533706
+ST0027327,North Somerset,Conservative and Unionist Party,TRUE,,31693,4957,FALSE,0.15640677752185025
+ST0027334,Old Bexley & Sidcup,Conservative and Unionist Party,TRUE,,6499,,TRUE,0
+ST0027339,Rutland & Melton,Conservative and Unionist Party,TRUE,,10663,1211,TRUE,0.11357028978711432
+ST0027341,Sandwell,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027346,Shipley,Conservative and Unionist Party,TRUE,,6720,,FALSE,0
+ST0027353,South Cambridgeshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027358,South Norfolk,Conservative and Unionist Party,TRUE,,,1563,FALSE,
+ST0027360,South West Surrey,Conservative and Unionist Party,TRUE,,6770,746,TRUE,0.11019202363367799
+ST0027365,Stafford,Conservative and Unionist Party,TRUE,,4444,,FALSE,0
+ST0027372,Suffolk South,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027377,Swindon Federation,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026533,Norwich North and South CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027396,Holborn and St Pancras CLP,Labour Party,TRUE,,2280,119.6,FALSE,0.052456140350877194
+ST0026540,Bristol,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026557,Eastleigh,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0026564,"Hereford, North Hereford and South Hereford",Liberal Democrats,TRUE,,0,,FALSE,
+ST0026608,St Ives,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026610,Stratford on Avon,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027106,Highlands,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027264,Cambridge,Liberal Democrats,TRUE,,7579.06,245.68,FALSE,0.032415629378841175
+ST0027384,East Dunbartonshire,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027416,Kingston Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027423,Milton Keynes,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027428,North Hertfordshire & Stevenage,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027435,Portsmouth,Liberal Democrats,TRUE,,6000,,FALSE,0
+ST0027442,South East,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026899,Enfield North,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026902,Epping Forest,Conservative and Unionist Party,TRUE,,15650,1388,TRUE,0.088690096
+ST0026988,Pendle,Conservative and Unionist Party,TRUE,,6000,,TRUE,0
+ST0026990,Perth and Kinross,Conservative and Unionist Party,TRUE,,4400,475,FALSE,0.10795454545454546
+ST0026995,Rayleigh and Wickford,Conservative and Unionist Party,TRUE,,4525,,TRUE,0
+ST0027056,Thornbury and Yate,Conservative and Unionist Party,TRUE,,26908,3716,FALSE,0.13810019325107775
+ST0027253,"Ruislip, Northwood and Pinner",Conservative and Unionist Party,TRUE,,0,66,FALSE,
+ST0027265,Gosport,Conservative and Unionist Party,TRUE,,9380,1602,FALSE,0.17078891257995735
+ST0027272,Harlow,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027284,Henley,Conservative and Unionist Party,TRUE,,,119930,FALSE,
+ST0027289,Hertfordshire South West,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027291,High Peak,Conservative and Unionist Party,TRUE,,14469,2188.23,FALSE,0.1512357453866888
+ST0027296,Ipswich,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027304,Lichfield,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027309,Mid Derbyshire and Derby,Conservative and Unionist Party,TRUE,,746,,FALSE,0
+ST0027311,Milton Keynes,Conservative and Unionist Party,TRUE,,,536,FALSE,
+ST0027316,Newark,Conservative and Unionist Party,TRUE,,5798,627,FALSE,0.10814073818558123
+ST0027323,North Dorset,Conservative and Unionist Party,TRUE,,4345,836,TRUE,0.19240506329113924
+ST0027328,North West Cambridgeshire,Conservative and Unionist Party,TRUE,,850,340,TRUE,0.4
+ST0027330,North West Wales MCA,Conservative and Unionist Party,TRUE,,691,,FALSE,0
+ST0027335,Orpington,Conservative and Unionist Party,TRUE,,30744,1362,FALSE,0.044301327088212335
+ST0027342,Scarborough & Whitby,Conservative and Unionist Party,TRUE,,1000,,FALSE,0
+ST0027347,Shrewsbury & Atcham,Conservative and Unionist Party,TRUE,,4800,0,TRUE,0
+ST0027354,South Derbyshire,Conservative and Unionist Party,TRUE,,15320,60,FALSE,0.003916449
+ST0027359,South West Region,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027373,Suffolk West,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027378,Tatton,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027467,Hemel Hempstead,Conservative and Unionist Party,TRUE,,0,72,TRUE,
+ST0026534,Dulwich and West Norwood CLP,Labour Party,TRUE,,13347.16,0,TRUE,0
+ST0027094,Wimbledon CLP,Labour Party,TRUE,,,0,FALSE,
+ST0027392,Greenwich and Woolwich CLP,Labour Party,TRUE,,18720,22.88,FALSE,0.001222222
+ST0027397,Ipswich CLP,Labour Party,TRUE,,1000,0,FALSE,0
+ST0027400,Lewes CLP,Labour Party,TRUE,,14730,2701.88,FALSE,0.18342701968771216
+ST0027405,Watford CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0027152,Dwyrain Caerfyrddin a Dinefwr,Plaid Cymru - The Party of Wales,TRUE,,11650,,TRUE,0
+ST0026558,Edinburgh West,Liberal Democrats,TRUE,,8340,,FALSE,0
+ST0026560,Guildford,Liberal Democrats,TRUE,,544.62,,FALSE,0
+ST0026565,Hull,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026611,Sutton,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026616,Twickenham and Richmond,Liberal Democrats,TRUE,,13629.91,,FALSE,0
+ST0027277,Cardiff and the Vale,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027380,"Chelmsford, Maldon & Braintree",Liberal Democrats,TRUE,,61.21,86.76,FALSE,1.4174154549910145
+ST0027385,East Midlands,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027417,Leeds,Liberal Democrats,TRUE,,120,,FALSE,0
+ST0027424,Mole Valley,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027429,North Norfolk and Great Yarmouth,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027431,North West,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027436,Scottish Parliamentary Party,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027443,South Gloucestershire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026852,Bromsgrove,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026857,Calder Valley,Conservative and Unionist Party,TRUE,,3400,,FALSE,0
+ST0026864,Chatham & Aylesford,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0026869,Chingford & Woodford Green,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026876,City of Coventry,Conservative and Unionist Party,TRUE,,2800,,FALSE,0
+ST0026890,East Devon,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026895,East Worthing and Shoreham,Conservative and Unionist Party,TRUE,,12000,2172,FALSE,0.181
+ST0026853,Broxbourne,Conservative and Unionist Party,TRUE,,,6,FALSE,
+ST0026860,Cardiff North,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026865,Chelmsford,Conservative and Unionist Party,TRUE,,28855,,TRUE,0
+ST0026877,City of Durham & Easington,Conservative and Unionist Party,TRUE,,21771,9688,FALSE,0.4449956363970419
+ST0026884,Derbyshire Dales,Conservative and Unionist Party,TRUE,,0,86,FALSE,
+ST0026889,Ealing Central and Acton,Conservative and Unionist Party,TRUE,,0,1021,FALSE,
+ST0026891,East Hampshire,Conservative and Unionist Party,TRUE,,0,584,FALSE,
+ST0026896,Eastbourne,Conservative and Unionist Party,TRUE,,,14,FALSE,
+ST0027166,Devizes,Conservative and Unionist Party,TRUE,,,629,FALSE,
+ST0026847,Brentwood & Ongar,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026854,Buckingham,Conservative and Unionist Party,TRUE,,16478,1736,FALSE,0.10535259133389975
+ST0026861,Carlisle,Conservative and Unionist Party,TRUE,,,151,FALSE,
+ST0026866,Cheltenham,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0026878,City of Edinburgh,Conservative and Unionist Party,TRUE,,3592,5102,FALSE,1.420378619153675
+ST0026892,East Lothian,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026532,Brentford and Isleworth CLP,Labour Party,TRUE,,40584,,FALSE,0
+ST0026848,Bridgwater and West Somerset,Conservative and Unionist Party,TRUE,,10000,548,TRUE,0.0548
+ST0026850,Broadland,Conservative and Unionist Party,TRUE,,6000,,FALSE,0
+ST0026855,Burton,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026862,Castle Point,Conservative and Unionist Party,TRUE,,3300,,FALSE,0
+ST0026879,City of Nottingham,Conservative and Unionist Party,TRUE,,12650,-518,FALSE,0
+ST0026881,Crewe & Nantwich,Conservative and Unionist Party,TRUE,,4320,,FALSE,0
+ST0026886,Dover,Conservative and Unionist Party,TRUE,,18561,,FALSE,0
+ST0026893,East Renfrewshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026849,Bristol and South Gloucestershire,Conservative and Unionist Party,TRUE,,78503,566,FALSE,0.007209916
+ST0026851,Bromley & Chislehurst,Conservative and Unionist Party,TRUE,,12558,1500,TRUE,0.11944577161968466
+ST0026863,Central Devon,Conservative and Unionist Party,TRUE,,0,,TRUE,
+ST0026870,Chipping Barnet,Conservative and Unionist Party,TRUE,,8162.2,,FALSE,0
+ST0026875,City of Chester,Conservative and Unionist Party,TRUE,,3816,804,FALSE,0.21069182389937108
+ST0026882,Cumbria,Conservative and Unionist Party,TRUE,,6000,970,FALSE,0.16166666666666665
+ST0026887,Dulwich & West Norwood,Conservative and Unionist Party,TRUE,,56200,11024,FALSE,0.19615658362989324
+ST0026894,East Surrey,Conservative and Unionist Party,TRUE,,9802,1746,FALSE,0.1781269128749235
+ST0026833,Bath,Conservative and Unionist Party,TRUE,,200,,FALSE,0
+ST0026838,Bexhill & Battle,Conservative and Unionist Party,TRUE,,296,,FALSE,0
+ST0026845,Braintree,Conservative and Unionist Party,TRUE,,,1858,FALSE,
+ST0026822,Aberdeen City,Conservative and Unionist Party,TRUE,,0,9,FALSE,
+ST0026827,Aylesbury,Conservative and Unionist Party,TRUE,,217254,41514,TRUE,0.19108508934242868
+ST0026834,Battersea,Conservative and Unionist Party,TRUE,,22100,2497,FALSE,0.11298642533936652
+ST0026839,Bexleyheath & Crayford,Conservative and Unionist Party,TRUE,,32922.24,1909.5,TRUE,0.058000306
+ST0026841,Bolton West,Conservative and Unionist Party,TRUE,,4800,,FALSE,0
+ST0026846,Brentford & Isleworth,Conservative and Unionist Party,TRUE,,38393,6684,FALSE,0.17409423592842446
+ST0027111,"Barnsley, Penistone & Stocksbridge Federation",Conservative and Unionist Party,TRUE,,9799.92,1666.56,FALSE,0.1700585310900497
+ST0026823,Aberdeenshire,Conservative and Unionist Party,TRUE,,13417,1533,FALSE,0.11425803085637624
+ST0026830,Banbury,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026835,Beaconsfield,Conservative and Unionist Party,TRUE,,15277,699,FALSE,0.045755057
+ST0026842,Bosworth,Conservative and Unionist Party,TRUE,,11716,1803,TRUE,0.15389211334926597
+ST0026537,Aylesbury,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026824,Altrincham & Sale West,Conservative and Unionist Party,TRUE,,4018,,FALSE,0
+ST0026836,Beckenham,Conservative and Unionist Party,TRUE,,28450,3767,TRUE,0.13240773286467486
+ST0026843,Bournemouth East,Conservative and Unionist Party,TRUE,,12528,1,TRUE,7.982120051085569e-05
+ST0026538,Bath and North East Somerset,Liberal Democrats,TRUE,,9850,2274.69,FALSE,0.23093299492385788
+ST0026825,Arundel & South Downs,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0026832,Basildon and Thurrock Federation,Conservative and Unionist Party,TRUE,,8125,,FALSE,0
+ST0026837,Beverley & Holderness,Conservative and Unionist Party,TRUE,,3245,,TRUE,0
+ST0026844,Bracknell,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026539,Bedford,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0027057,Tonbridge & Malling,Conservative and Unionist Party,TRUE,,,175,FALSE,
+ST0027069,Watford,Conservative and Unionist Party,TRUE,,11066,2260,FALSE,0.20422917043195374
+ST0027076,Westminster North,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027083,Workington,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027095,York Central and Outer CLP,Labour Party,TRUE,,0,1692.14,FALSE,
+ST0026617,Wales,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026624,Western Counties,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026629,Wokingham Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026631,York,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027058,Tooting,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027065,Vale of Glamorgan,Conservative and Unionist Party,TRUE,,3000,0,FALSE,0
+ST0027072,Wells,Conservative and Unionist Party,TRUE,,14471,2336,FALSE,0.1614263008776173
+ST0027077,Westmorland & Lonsdale,Conservative and Unionist Party,TRUE,,0,508,FALSE,
+ST0027084,Worthing West,Conservative and Unionist Party,TRUE,,16737,2161,FALSE,0.1291151341339547
+ST0026531,Slough CLP,Labour Party,TRUE,,0,,FALSE,
+ST0026536,Hornsey and Wood Green CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0026637,Braintree and Witham CLP,Labour Party,TRUE,,20573,1340,FALSE,0.065133913
+ST0026618,Watford,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026620,Welwyn Hatfield,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0026625,Westminster Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027255,Young Liberals,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027028,South Tees,Conservative and Unionist Party,TRUE,,6250,,FALSE,0
+ST0027030,South Thanet,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027035,Southend West,Conservative and Unionist Party,TRUE,,10663,1387,FALSE,0.1300759636124918
+ST0027059,Torbay,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027061,Totnes,Conservative and Unionist Party,TRUE,,471,,FALSE,0
+ST0027073,Welwyn Hatfield,Conservative and Unionist Party,TRUE,,39257,5227,FALSE,0.1331482283414423
+ST0027078,Wimbledon,Conservative and Unionist Party,TRUE,,,342,FALSE,
+ST0027080,Windsor,Conservative and Unionist Party,TRUE,,16000,,FALSE,0
+ST0027256,Yorkshire/Humberside Region,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0026556,Oxford & Abingdon CLP,Labour Party,TRUE,,225,44.16,FALSE,0.19626666666666664
+ST0026638,Cambridge CLP,Labour Party,TRUE,,10275,,FALSE,0
+ST0026640,Exeter CLP,Labour Party,TRUE,,38304.36,4583.37,FALSE,0.11965661350300592
+ST0026619,Wells,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026621,West Berkshire and Newbury,Liberal Democrats,TRUE,,15436,1106,FALSE,0.071650687
+ST0026626,Windsor and Maidenhead,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0026569,City of Stoke on Trent,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0027031,South West Norfolk,Conservative and Unionist Party,TRUE,,20445,,FALSE,0
+ST0027067,Wantage,Conservative and Unionist Party,TRUE,,,689,FALSE,
+ST0027074,West Dorset,Conservative and Unionist Party,TRUE,,8602,0,TRUE,0
+ST0027079,Winchester,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0027081,Woking,Conservative and Unionist Party,TRUE,,7750,,TRUE,0
+ST0027086,Wyre Forest,Conservative and Unionist Party,TRUE,,4950,903,FALSE,0.18242424242424243
+ST0027098,Witham,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0027240,Bury,Conservative and Unionist Party,TRUE,,5400,,FALSE,0
+ST0026639,Eltham CLP,Labour Party,TRUE,,13200,2000,FALSE,0.15151515151515152
+ST0026641,Finchley and Golders Green CLP,Labour Party,TRUE,,788.64,0,FALSE,0
+ST0026615,Tunbridge Wells,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026622,West Hertfordshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026627,Witney and West Oxfordshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0027063,Uxbridge and South Ruislip,Conservative and Unionist Party,TRUE,,25567,4635,FALSE,0.18128837955176594
+ST0027068,Warrington,Conservative and Unionist Party,TRUE,,13200,1688,FALSE,0.12787878787878787
+ST0027075,West Lancashire,Conservative and Unionist Party,TRUE,,22125,2124,FALSE,0.096
+ST0027082,Wokingham,Conservative and Unionist Party,TRUE,,11498,,FALSE,0
+ST0027087,Yeovil,Conservative and Unionist Party,TRUE,,32071,2385,FALSE,0.07436625
+ST0026623,West Midlands,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026628,Woking,Liberal Democrats,TRUE,,0,188.73,FALSE,
+ST0026630,Yeovil,Liberal Democrats,TRUE,,0,,FALSE,
+ST0026635,North West Region,Green Party,TRUE,,0,504,FALSE,
+ST0025213,ALDC,Liberal Democrats,TRUE,,5082,,FALSE,0
+ST0025202,Scotland,Liberal Democrats,TRUE,,3000,,FALSE,0
+ST0025171,Hertsmere,Conservative and Unionist Party,TRUE,,7414,,FALSE,0
+ST0025169,Camden Borough,Liberal Democrats,TRUE,,2346.17,,FALSE,0
+ST0025170,Thirsk and Malton,Conservative and Unionist Party,TRUE,,4525,37,FALSE,0.008176796
+ST0025166,Ynys Mon,Plaid Cymru - The Party of Wales,TRUE,,9685,,TRUE,0
+ST0024539,Basildon and Thurrock Federation,Conservative and Unionist Party,TRUE,,6250,,FALSE,0
+ST0024541,Battersea,Conservative and Unionist Party,TRUE,,22100,5789,FALSE,0.2619457013574661
+ST0024546,Bexleyheath & Crayford,Conservative and Unionist Party,TRUE,,28127.38,4909.83,TRUE,0.174556962
+ST0024553,Braintree,Conservative and Unionist Party,TRUE,,,1730,FALSE,
+ST0024560,Bristol and South Gloucestershire,Conservative and Unionist Party,TRUE,,66781,278,FALSE,0.004162861
+ST0024565,Broxbourne,Conservative and Unionist Party,TRUE,,,15,FALSE,
+ST0024577,Central Devon,Conservative and Unionist Party,TRUE,,0,,TRUE,
+ST0024584,Cheshire & The Wirral Area,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024589,City of Chester,Conservative and Unionist Party,TRUE,,1716,804,FALSE,0.46853146853146854
+ST0024591,City of Durham & Easington,Conservative and Unionist Party,TRUE,,2202,2275,FALSE,1.0331516802906449
+ST0024647,Aberdeen City,Conservative and Unionist Party,TRUE,,0,3,FALSE,
+ST0024654,Devizes,Conservative and Unionist Party,TRUE,,2950,532,FALSE,0.18033898305084745
+ST0024678,Eastleigh,Conservative and Unionist Party,TRUE,,16000,,TRUE,0
+ST0024685,Fareham,Conservative and Unionist Party,TRUE,,16220,0,FALSE,0
+ST0024692,Gower & Swansea Federation,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024697,Greenwich,Conservative and Unionist Party,TRUE,,1000,,FALSE,0
+ST0024700,Guildford,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024712,Harlow,Conservative and Unionist Party,TRUE,,1690.63,,FALSE,0
+ST0024748,High Peak,Conservative and Unionist Party,TRUE,,9375,1163,FALSE,0.12405333333333333
+ST0024750,Hitchin & Harpenden,Conservative and Unionist Party,TRUE,,0,,TRUE,
+ST0024755,Kenilworth and Southam,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024798,Mole Valley,Conservative and Unionist Party,TRUE,,19200,,FALSE,0
+ST0024825,Wyre Forest,Conservative and Unionist Party,TRUE,,5850,1063,FALSE,0.1817094017094017
+ST0024832,Norfolk North,Conservative and Unionist Party,TRUE,,5408,,TRUE,0
+ST0024837,North West Hampshire,Conservative and Unionist Party,TRUE,,4985,259,TRUE,0.051955867602808424
+ST0024844,Nuneaton,Conservative and Unionist Party,TRUE,,-1440,,FALSE,
+ST0024849,Oxford West & Abingdon,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024851,Worcester,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024856,Windsor,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024863,Peterborough,Conservative and Unionist Party,TRUE,,7923,,TRUE,0
+ST0024868,Reigate,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024887,Rugby,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024894,Skipton & Ripon,Conservative and Unionist Party,TRUE,,6900,1311,FALSE,0.19
+ST0024899,South Holland & The Deepings,Conservative and Unionist Party,TRUE,,6222,,TRUE,0
+ST0024914,South West Surrey,Conservative and Unionist Party,TRUE,,8294,704,TRUE,0.084880637
+ST0024921,St Albans,Conservative and Unionist Party,TRUE,,2071,,FALSE,0
+ST0024926,Stockton,Conservative and Unionist Party,TRUE,,2705,,FALSE,0
+ST0024938,Scottish Borders,Conservative and Unionist Party,TRUE,,7200,1098,FALSE,0.1525
+ST0024945,Shipley,Conservative and Unionist Party,TRUE,,6720,,FALSE,0
+ST0024988,Swindon Federation,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024990,Tatton,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024995,Twickenham,Conservative and Unionist Party,TRUE,,9337,24,FALSE,0.002570419
+ST0025001,Warrington,Conservative and Unionist Party,TRUE,,13200,1635,FALSE,0.12386363636363637
+ST0025094,Wealden,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0025102,Wellingborough,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0025114,Hertfordshire South West,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0025121,Uxbridge and South Ruislip,Conservative and Unionist Party,TRUE,,26000,4644,FALSE,0.17861538461538462
+ST0025152,Bromley & Chislehurst,Conservative and Unionist Party,TRUE,,12558,1987,TRUE,0.15822583213887562
+ST0025157,Bromsgrove,Conservative and Unionist Party,TRUE,,4200,,FALSE,0
+ST0024572,Eltham CLP,Labour Party,TRUE,,42769,12906.15,FALSE,0.3017641282237134
+ST0024604,Lewisham West and Penge CLP,Labour Party,TRUE,,18767.55,0,FALSE,0
+ST0024611,Plymouth Sutton and Devonport CLP,Labour Party,TRUE,,,0,TRUE,
+ST0024616,Watford CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0024623,Dulwich and West Norwood CLP,Labour Party,TRUE,,15009.33,,TRUE,0
+ST0024875,Ceredigion,Plaid Cymru - The Party of Wales,TRUE,,0,,FALSE,
+ST0024642,Bosworth,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024659,East Dunbartonshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024661,East of England,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024666,Gateshead,Liberal Democrats,TRUE,,623.51,,FALSE,0
+ST0024705,Harrogate and Knaresborough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024717,Kingston Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024724,Mole Valley,Liberal Democrats,TRUE,,0,38.16,FALSE,
+ST0024729,North East,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024731,North Hertfordshire & Stevenage,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024736,Norwich,Liberal Democrats,TRUE,,2316,,FALSE,0
+ST0024743,South Cambridgeshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024762,South Edinburgh,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024767,Sutton,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024774,Watford,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024779,Western Counties,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024781,Winchester District,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024786,York,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024535,Aberdeenshire,Conservative and Unionist Party,TRUE,,15700,703,FALSE,0.04477707
+ST0024542,Beaconsfield,Conservative and Unionist Party,TRUE,,18055,,FALSE,0
+ST0024561,Broadland,Conservative and Unionist Party,TRUE,,6134.75,0,FALSE,0
+ST0024578,Central Suffolk & North Ipswich,Conservative and Unionist Party,TRUE,,576,,FALSE,0
+ST0024592,City of Edinburgh,Conservative and Unionist Party,TRUE,,23256,2953,FALSE,0.1269779841761266
+ST0024650,Derbyshire Dales,Conservative and Unionist Party,TRUE,,4900,14193,FALSE,2.896530612244898
+ST0024674,East Surrey,Conservative and Unionist Party,TRUE,,10391,2187,FALSE,0.2104705995573092
+ST0024681,Epping Forest,Conservative and Unionist Party,TRUE,,15650,1753,TRUE,0.11201277955271566
+ST0024686,Faversham & Mid Kent,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024693,Gosport,Conservative and Unionist Party,TRUE,,9440,1602,FALSE,0.16970338983050848
+ST0024701,Haltemprice & Howden,Conservative and Unionist Party,TRUE,,1142,,FALSE,0
+ST0024713,Harrogate & Knaresborough,Conservative and Unionist Party,TRUE,,31281,1976,TRUE,0.063169336
+ST0024744,Hereford and South Herefordshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024751,Horsham,Conservative and Unionist Party,TRUE,,14000,2340,FALSE,0.16714285714285715
+ST0024756,"Kenisington, Chelsea and Fulham",Conservative and Unionist Party,TRUE,,,,TRUE,
+ST0024794,Mid Derbyshire and Derby,Conservative and Unionist Party,TRUE,,4081,,FALSE,0
+ST0024807,New Forest East,Conservative and Unionist Party,TRUE,,10129,,FALSE,0
+ST0024833,North Shropshire,Conservative and Unionist Party,TRUE,,4075,,TRUE,0
+ST0024852,Wokingham,Conservative and Unionist Party,TRUE,,8728,,FALSE,0
+ST0024857,Wimbledon,Conservative and Unionist Party,TRUE,,,32,FALSE,
+ST0024864,Poole,Conservative and Unionist Party,TRUE,,7570,220,TRUE,0.029062087
+ST0024869,Richmond (Yorks),Conservative and Unionist Party,TRUE,,12291,50,FALSE,0.004068017
+ST0024888,Rushcliffe,Conservative and Unionist Party,TRUE,,21900,4193,TRUE,0.19146118721461186
+ST0024890,Salisbury,Conservative and Unionist Party,TRUE,,13258,,TRUE,0
+ST0024895,Solihull,Conservative and Unionist Party,TRUE,,53937,0,FALSE,0
+ST0024927,Stratford on Avon,Conservative and Unionist Party,TRUE,,10716,1907,FALSE,0.17795819335572974
+ST0024939,Sevenoaks,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0024972,St Ives,Conservative and Unionist Party,TRUE,,,544,FALSE,
+ST0024996,Wantage,Conservative and Unionist Party,TRUE,,,2304,FALSE,
+ST0025002,Warwick & Leamington,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0025007,West Lancashire,Conservative and Unionist Party,TRUE,,25617,2004,FALSE,0.078229301
+ST0025115,Westminster North,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0025141,Copeland,Conservative and Unionist Party,TRUE,,6000,308,FALSE,0.051333333333333335
+ST0024605,Milton Keynes Labour Party,Labour Party,TRUE,,660,0.19,FALSE,0.000287879
+ST0024612,Rhondda CLP,Labour Party,TRUE,,7533.03,,FALSE,0
+ST0024624,Exeter CLP,Labour Party,TRUE,,42769,12906.15,FALSE,0.3017641282237134
+ST0024629,Greenwich and Woolwich CLP,Labour Party,TRUE,,18270,5980.5,FALSE,0.32733990147783254
+ST0024631,Mansfield CLP,Labour Party,TRUE,,19508.03,0,FALSE,0
+ST0024636,Salisbury CLP,Labour Party,TRUE,,3511.88,0,TRUE,0
+ST0024876,Hastings and Rye CLP,Labour Party,TRUE,,9320,,FALSE,0
+ST0024643,Bristol,Liberal Democrats,TRUE,,279.72,,FALSE,0
+ST0024655,Cheltenham,Liberal Democrats,TRUE,,1200,,FALSE,0
+ST0024662,East Riding,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024718,Leeds North West,Liberal Democrats,TRUE,,1840,336.78,FALSE,0.18303260869565216
+ST0024720,Manchester,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024725,Montgomeryshire,Liberal Democrats,TRUE,,914,0,FALSE,0
+ST0024732,North Wales,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024737,Oxford West and Abingdon,Liberal Democrats,TRUE,,552.39,,FALSE,0
+ST0024763,South Gloucestershire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024768,Taunton Deane,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024770,Twickenham and Richmond,Liberal Democrats,TRUE,,18941.56,,FALSE,0
+ST0024775,Wells,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024782,Wirral,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024787,Yorkshire and the Humber,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024536,Aylesbury,Conservative and Unionist Party,TRUE,,215986,41308,TRUE,0.19125313677738373
+ST0024548,Bolton West,Conservative and Unionist Party,TRUE,,4800,,FALSE,0
+ST0024550,Bosworth,Conservative and Unionist Party,TRUE,,12325,1691,TRUE,0.13720081135902637
+ST0024555,Brentford & Isleworth,Conservative and Unionist Party,TRUE,,53845,6705,FALSE,0.12452409694493453
+ST0024567,Broxtowe,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024574,Cardiff North,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024579,Chatham & Aylesford,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024581,Cheltenham,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024586,Chingford & Woodford Green,Conservative and Unionist Party,TRUE,,10279,,FALSE,0
+ST0024593,City of Stoke on Trent,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024598,Crewe & Nantwich,Conservative and Unionist Party,TRUE,,3096,,FALSE,0
+ST0024649,Beckenham,Conservative and Unionist Party,TRUE,,26135,3735,TRUE,0.14291180409412665
+ST0024668,Dulwich & West Norwood,Conservative and Unionist Party,TRUE,,56926,11682,FALSE,0.2052137863190809
+ST0024670,Ealing Central and Acton,Conservative and Unionist Party,TRUE,,0,956,FALSE,
+ST0024675,East Worthing and Shoreham,Conservative and Unionist Party,TRUE,,7088,1375,FALSE,0.19398984198645597
+ST0024682,Epsom & Ewell,Conservative and Unionist Party,TRUE,,3693,150,FALSE,0.040617384
+ST0024699,Gravesham,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024702,Hampstead and Kilburn,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024714,Harrow East,Conservative and Unionist Party,TRUE,,2262.19,,FALSE,0
+ST0024719,Hastings & Rye,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024752,Huntingdon,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024790,Maidstone & Weald,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024795,Mid Sussex,Conservative and Unionist Party,TRUE,,240,,FALSE,0
+ST0024810,Newbury,Conservative and Unionist Party,TRUE,,15442,1922,FALSE,0.12446574277943272
+ST0024822,North Derbyshire,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024827,North Dorset,Conservative and Unionist Party,TRUE,,3958,,TRUE,0
+ST0024841,Northumberland MCA,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024846,Orpington,Conservative and Unionist Party,TRUE,,22398,1362,FALSE,0.060809001
+ST0024858,Wiltshire,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024860,Penrith & The Border,Conservative and Unionist Party,TRUE,,3832,52,FALSE,0.013569937369519834
+ST0024884,Romford,Conservative and Unionist Party,TRUE,,13612,0,FALSE,0
+ST0024889,Saffron Walden,Conservative and Unionist Party,TRUE,,7149,1115,TRUE,0.15596586935235698
+ST0024891,Sandwell,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024896,South Derbyshire,Conservative and Unionist Party,TRUE,,26810,,FALSE,0
+ST0024909,South West Region,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024947,South Ayrshire,Conservative and Unionist Party,TRUE,,5006,504,FALSE,0.10067918497802637
+ST0024973,Stafford,Conservative and Unionist Party,TRUE,,2154,,FALSE,0
+ST0024992,Tooting,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0025003,Watford,Conservative and Unionist Party,TRUE,,11503,4465,FALSE,0.3881596105363818
+ST0025010,Suffolk West,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0025015,Thornbury and Yate,Conservative and Unionist Party,TRUE,,25210,2700,FALSE,0.107100357
+ST0025027,Truro and Falmouth,Conservative and Unionist Party,TRUE,,,15.29,FALSE,
+ST0025109,Welwyn Hatfield,Conservative and Unionist Party,TRUE,,38928,3000,FALSE,0.077065351
+ST0025111,South Norfolk,Conservative and Unionist Party,TRUE,,,3440,FALSE,
+ST0025128,Herefordshire and Shropshire,Conservative and Unionist Party,TRUE,,7401.33,,FALSE,0
+ST0024601,Holborn and St Pancras CLP,Labour Party,TRUE,,4320,117.5,FALSE,0.027199074074074073
+ST0024606,Mitcham and Morden CLP,Labour Party,TRUE,,150,0,TRUE,0
+ST0024613,Slough CLP,Labour Party,TRUE,,0,,FALSE,
+ST0024618,Wimbledon CLP,Labour Party,TRUE,,,0,FALSE,
+ST0024620,Brent North CLP,Labour Party,TRUE,,19125,1931,FALSE,0.10096732026143791
+ST0024625,Finchley and Golders Green CLP,Labour Party,TRUE,,2234.52,,FALSE,0
+ST0024637,Sittingbourne and Sheppey CLP,Labour Party,TRUE,,0,25,FALSE,
+ST0024644,Cambridge,Liberal Democrats,TRUE,,4680.74,462.01,FALSE,0.098704478
+ST0024651,Cardiff and the Vale,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024656,The Cotswolds,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024663,Eastbourne,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024707,"Hereford, North Hereford and South Hereford",Liberal Democrats,TRUE,,0,45,FALSE,
+ST0024721,Merton Borough,Liberal Democrats,TRUE,,0,151.87,FALSE,
+ST0024726,Newton Abbot,Liberal Democrats,TRUE,,0,81.95,FALSE,
+ST0024733,North West,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024740,Scottish Parliamentary Party,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024745,South Central,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024764,Southwark Borough,Liberal Democrats,TRUE,,0,124.76,FALSE,
+ST0024769,Test Valley,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024771,Waltham Forest,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024776,West Berkshire and Newbury,Liberal Democrats,TRUE,,21134,2990,FALSE,0.14147818680798713
+ST0024783,Wokingham Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024788,Young Liberals,Liberal Democrats,TRUE,,0,,FALSE,
+ST0025154,Bedford,Liberal Democrats,TRUE,,4205.54,0,FALSE,0
+ST0024532,Altrincham & Sale West,Conservative and Unionist Party,TRUE,,9564,,FALSE,0
+ST0024537,Banbury,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024544,Beverley & Holderness,Conservative and Unionist Party,TRUE,,3363,,TRUE,0
+ST0024549,Boston & Skegness,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024551,Bournemouth East,Conservative and Unionist Party,TRUE,,11351,1,TRUE,8.809796493700995e-05
+ST0024556,Brentwood & Ongar,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024568,Buckingham,Conservative and Unionist Party,TRUE,,42645,2706,FALSE,0.063454098
+ST0024570,Bury,Conservative and Unionist Party,TRUE,,5400,,FALSE,0
+ST0024575,Carlisle,Conservative and Unionist Party,TRUE,,3264,120,FALSE,0.036764706
+ST0024582,Chelmsford,Conservative and Unionist Party,TRUE,,28524,,TRUE,0
+ST0024633,Bury St Edmunds,Conservative and Unionist Party,TRUE,,151,,FALSE,0
+ST0024676,Eastbourne,Conservative and Unionist Party,TRUE,,,738,FALSE,
+ST0024683,Erewash,Conservative and Unionist Party,TRUE,,5040,,FALSE,0
+ST0024688,Finchley & Golders Green,Conservative and Unionist Party,TRUE,,,3800,FALSE,
+ST0024690,Glasgow,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024695,Grantham & Stamford,Conservative and Unionist Party,TRUE,,9110,290,FALSE,0.031833150384193196
+ST0024715,Harrow West,Conservative and Unionist Party,TRUE,,47117,2805,FALSE,0.059532653
+ST0024734,Henley,Conservative and Unionist Party,TRUE,,2600,,TRUE,0
+ST0024753,Isle of Wight,Conservative and Unionist Party,TRUE,,6354,4,FALSE,0.000629525
+ST0024758,Kettering,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024789,Maidenhead,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024791,Meon Valley,Conservative and Unionist Party,TRUE,,0,59,FALSE,
+ST0024796,Milton Keynes,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024809,Newark,Conservative and Unionist Party,TRUE,,8917,1233,FALSE,0.13827520466524615
+ST0024811,North Ayrshire,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024823,North Devon,Conservative and Unionist Party,TRUE,,2880,319,FALSE,0.11076388888888888
+ST0024828,North East Bedfordshire,Conservative and Unionist Party,TRUE,,,299,FALSE,
+ST0024830,North East Hampshire,Conservative and Unionist Party,TRUE,,4532,364,FALSE,0.080317741
+ST0024835,North West Cambridgeshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024842,Norwich,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024854,Witney,Conservative and Unionist Party,TRUE,,,294,FALSE,
+ST0024859,Pendle,Conservative and Unionist Party,TRUE,,7500,,TRUE,0
+ST0024866,Rayleigh and Wickford,Conservative and Unionist Party,TRUE,,4500,,TRUE,0
+ST0024885,Romsey and Southampton,Conservative and Unionist Party,TRUE,,0,5581,FALSE,
+ST0024892,Selby and Ainsty,Conservative and Unionist Party,TRUE,,0,63,TRUE,
+ST0024897,South Dorset,Conservative and Unionist Party,TRUE,,26,,FALSE,0
+ST0024905,South Tees,Conservative and Unionist Party,TRUE,,4550,,FALSE,0
+ST0024917,Southend West,Conservative and Unionist Party,TRUE,,10000,1348,FALSE,0.1348
+ST0024929,Stroud,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024931,Suffolk Coastal,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024948,South Cambridgeshire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024962,Suffolk South,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024974,Stirling and Clackmannshire,Conservative and Unionist Party,TRUE,,4225,132,FALSE,0.031242603550295858
+ST0024979,Stone,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024993,Torbay,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0025030,Wallasey,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0025112,Southport,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024594,Gedling CLP,Labour Party,TRUE,,0,,FALSE,
+ST0024602,Hornsey and Wood Green CLP,Labour Party,TRUE,,0,0,FALSE,
+ST0024614,Swansea West CLP,Labour Party,TRUE,,0,,FALSE,
+ST0024873,Arfon,Plaid Cymru - The Party of Wales,TRUE,,12360,,TRUE,0
+ST0024638,Aberdeenshire East,Liberal Democrats,TRUE,,6825,,FALSE,0
+ST0024640,Bath and North East Somerset,Liberal Democrats,TRUE,,19370.99,,FALSE,0
+ST0024645,Cambridgeshire County Co-Ordinating Committee,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024652,Cheadle,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024657,Derby City,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024664,Edinburgh West,Liberal Democrats,TRUE,,8340,,FALSE,0
+ST0024703,Guildford,Liberal Democrats,TRUE,,1803.87,,FALSE,0
+ST0024708,Hertfordshire County Co-ordinating Committee,Liberal Democrats,TRUE,,0,14.4,FALSE,
+ST0024710,Hull,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024722,Mid Dorset and North Poole,Liberal Democrats,TRUE,,2200.42,,FALSE,0
+ST0024727,North East and Central Fife,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024739,Portsmouth,Liberal Democrats,TRUE,,5750,,FALSE,0
+ST0024741,South East Oxon,Liberal Democrats,TRUE,,964.84,5.8,FALSE,0.006011359
+ST0024746,South East,Liberal Democrats,TRUE,,5468.72,,FALSE,0
+ST0024765,St Albans,Liberal Democrats,TRUE,,4806,330,FALSE,0.06866417
+ST0024777,West Hertfordshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024784,Yeovil,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024816,North West Region,Green Party,TRUE,,0,492,FALSE,
+ST0024533,Arundel & South Downs,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024540,Bath,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024545,Bexhill & Battle,Conservative and Unionist Party,TRUE,,4743,,FALSE,0
+ST0024552,Bracknell,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024557,Bridgwater and West Somerset,Conservative and Unionist Party,TRUE,,10000,,TRUE,0
+ST0024576,Castle Point,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024588,Chipping Barnet,Conservative and Unionist Party,TRUE,,10336.6,,FALSE,0
+ST0024590,City of Coventry,Conservative and Unionist Party,TRUE,,4987.16,600,FALSE,0.12030895339231146
+ST0024672,East Lothian,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024677,Eastern Region,Conservative and Unionist Party,TRUE,,32237.25,,FALSE,0
+ST0024684,Esher & Walton,Conservative and Unionist Party,TRUE,,,562,FALSE,
+ST0024691,Gloucester,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024723,Havant,Conservative and Unionist Party,TRUE,,0,1777,FALSE,
+ST0024730,Hemel Hempstead,Conservative and Unionist Party,TRUE,,2000,460,FALSE,0.23
+ST0024759,Kingston & Surbiton,Conservative and Unionist Party,TRUE,,2914,,FALSE,0
+ST0024761,Loughborough,Conservative and Unionist Party,TRUE,,12405.85,,FALSE,0
+ST0024785,Macclesfield,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024792,Meriden,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024800,Montgomeryshire,Conservative and Unionist Party,TRUE,,13363,1195,TRUE,0.089426027
+ST0024805,Moray,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024812,North Cornwall,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024824,Yeovil,Conservative and Unionist Party,TRUE,,29908,2385,FALSE,0.07974455
+ST0024831,Hertfordshire North East,Conservative and Unionist Party,TRUE,,8710,138,FALSE,0.015843858
+ST0024843,City of Nottingham,Conservative and Unionist Party,TRUE,,21544,1828,FALSE,0.08484961
+ST0024848,Worthing West,Conservative and Unionist Party,TRUE,,16200,2030,FALSE,0.12530864197530864
+ST0024850,Workington,Conservative and Unionist Party,TRUE,,0,,FALSE,
+ST0024855,Witham,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0024867,Redditch,Conservative and Unionist Party,TRUE,,141,,FALSE,0
+ST0024906,South Thanet,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0024920,Spelthorne,Conservative and Unionist Party,TRUE,,3000,,TRUE,0
+ST0024937,Rutland & Melton,Conservative and Unionist Party,TRUE,,10663,22777,TRUE,2.136078027
+ST0024982,Sutton Coldfield,Conservative and Unionist Party,TRUE,,12000,,FALSE,0
+ST0024994,Totnes,Conservative and Unionist Party,TRUE,,0,0,FALSE,
+ST0025012,West Worcestershire,Conservative and Unionist Party,TRUE,,,,FALSE,
+ST0025029,Vale of Glamorgan,Conservative and Unionist Party,TRUE,,,0,FALSE,
+ST0025106,Wells,Conservative and Unionist Party,TRUE,,14567,2463,FALSE,0.16908079906638293
+ST0025118,The Cotswolds,Conservative and Unionist Party,TRUE,,10000,,FALSE,0
+ST0025120,Tonbridge & Malling,Conservative and Unionist Party,TRUE,,,451,FALSE,
+ST0024569,Cambridge CLP,Labour Party,TRUE,,9533,,FALSE,0
+ST0024595,Guildford CLP,Labour Party,TRUE,,33535,5360,FALSE,0.15983301028775906
+ST0024610,Pendle CLP,Labour Party,TRUE,,5000.04,,FALSE,0
+ST0024615,Walthamstow CLP,Labour Party,TRUE,,10662.08,75.3,TRUE,0.007062412
+ST0024622,Brentford and Isleworth CLP,Labour Party,TRUE,,38952,,FALSE,0
+ST0024627,Manchester Local Campaign Forum,Labour Party,TRUE,,,,FALSE,
+ST0024634,Norwich North and South CLP,Labour Party,TRUE,,10000,0,FALSE,0
+ST0024879,Dwyfor Meirionnydd,Plaid Cymru - The Party of Wales,TRUE,,3894,,FALSE,0
+ST0024639,Aylesbury,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024658,Devon and Cornwall,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024660,East Midlands,Liberal Democrats,TRUE,,0,0.36,FALSE,
+ST0024665,Elmbridge,Liberal Democrats,TRUE,,297.3,392.98,FALSE,1.3218298015472587
+ST0024709,Highlands,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024711,Haringey Borough,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024728,Norfolk County Co-Ordinating Committee,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024735,North Wiltshire,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024742,Sheffield,Liberal Democrats,TRUE,,11665.55,,FALSE,0
+ST0024747,Parliamentary Party In The Lords,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024766,St Ives,Liberal Democrats,TRUE,,0,,FALSE,
+ST0024773,Warrington,Liberal Democrats,TRUE,,0,0,FALSE,
+ST0024778,West Midlands,Liberal Democrats,TRUE,,0,42.17,FALSE,
+ST0024780,"Westmorland, Furness and Eden Member Party Roles*",Liberal Democrats,TRUE,,41744.92,268.98,FALSE,0.006443419
+ST0025151,Perthshire North Constituency,Scottish National Party (SNP),TRUE,,2760,,FALSE,0
+0ST0024706,Hazel Grove,Liberal Democrats,TRUE,,515.15,,FALSE,0
