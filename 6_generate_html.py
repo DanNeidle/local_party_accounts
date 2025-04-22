@@ -17,7 +17,10 @@ THRESHOLD_RATE = 1
 THRESHOLD_AMOUNT = 1
 
 # Let's highlight all rows where the tax rate is less than this amount
-HIGHLIGHT_THRESHOLD_RATE = 0.10
+HIGHLIGHT_THRESHOLD_RATE = 0.15
+
+# for calculating the tax lost
+EXPECTED_TAX_RATE = 0.15
 
 # --- Helper Functions ---
 def format_tax_rate(rate_str):
@@ -100,12 +103,15 @@ data_rows.sort(key=sort_key)
 
 
 # --- Generate HTML ---
+
+
 html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Party Accounts Analysis</title>
+  <title>Political Parties and corporation tax</title>
+  <link rel="icon" href="https://taxpolicy.org.uk/wp-content/assets/logo_emblem_on_blue.jpg" type="image/jpeg">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
     body {{ font-family: 'Poppins', sans-serif; }}
@@ -123,6 +129,65 @@ html_content = f"""<!DOCTYPE html>
       font-size: 0.9em; /* Match table font size */
       border: 1px solid #D3D3D3; /* Match table border */
       border-radius: 4px; /* Slightly rounded corners */
+
+      /* --- Responsive Width --- */
+      width: 50vw;       /* Mobile First: Default to 50% of viewport width */
+      min-width: 280px;  /* Minimum width to ensure placeholder fits */
+      box-sizing: border-box; /* Include padding/border in the width */
+    }}
+
+    /* Media Query for larger screens (tablets and desktops) */
+    /* Adjust 768px breakpoint if needed */
+    @media (min-width: 768px) {{
+      #searchInput {{
+        width: 20vw;       /* On screens 768px wide or larger, use 20% viewport width */
+        /* max-width: 500px; */ /* Optional: Uncomment and adjust to limit max width on very wide screens */
+        /* min-width: 280px from the base rule still applies */
+      }}
+    }}
+    
+    /* --- Header Container for Logo and Search --- */
+    .header-container {{
+      display: flex; /* Enable Flexbox */
+      justify-content: space-between; /* Push logo left, search right */
+      align-items: center; /* Vertically align items in the middle */
+      margin-bottom: 20px; /* Space below the header, adjust as needed */
+      flex-wrap: wrap; /* Allow wrapping on very small screens */
+      gap: 10px; /* Add gap between items if they wrap */
+    }}
+
+    /* --- Logo Styling --- */
+    .logo-link {{
+      display: block; /* Treat the link as a block for sizing */
+      width: 40vw; /* Mobile First: Default logo width */
+      min-width: 100px; /* Ensure minimum logo size */
+      max-width: 180px; /* Prevent logo getting too large on mobile */
+      flex-shrink: 0; /* Prevent logo from shrinking too easily */
+    }}
+    .logo-link img {{
+      width: 100%; /* Make image fill the link container */
+      height: auto; /* Maintain aspect ratio */
+      display: block; /* Remove extra space below image */
+    }}
+
+    /* --- Adjust Filter Container --- */
+    .filter-container {{
+      /* text-align: right; */ /* Already set */
+      margin-bottom: 0px; /* Remove bottom margin, now handled by header-container */
+    }}
+
+    /* --- Media Query for Larger Screens (Logo Size) --- */
+    @media (min-width: 768px) {{
+      .logo-link {{
+        width: 20vw; /* Desktop logo width */
+        max-width: 200px; /* Optional: Max logo width on desktop */
+      }}
+      /* Make sure your existing @media query for #searchInput is also present */
+      /* If you added it previously, it might look like this: */
+      #searchInput {{
+         width: 20vw;
+         /* max-width: 500px; */
+       }}
     }}
 
     table#resultsTable {{
@@ -172,25 +237,41 @@ html_content = f"""<!DOCTYPE html>
     }}
     
     /* Very light red for highlighting */
-    .highlight-low-tax {{
+    .highlight-no-tax {{
         background-color: #ffecec; 
     }}
+    
+    /* Very light amber for highlighting */
+    .highlight-low-tax {{
+        background-color: #fef1c9; 
+    }}
+    
+    /* Very green for highlighting */
+    .highlight-good-tax {{
+        background-color: #e2f7ea; 
+    }}
+    
   </style>
 </head>
 <body>
 
-  <div class="filter-container">
-    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search table...">
+  <div class="header-container">
+    <a href="https://taxpolicy.org.uk/2025/04/13/local-parties-not-paying-tax/" class="logo-link" target="_blank" rel="noopener noreferrer">
+      <img src="https://taxpolicy.org.uk/wp-content/assets/logo_standard.jpg" alt="Tax Policy Associates Logo">
+    </a>
+    <div class="filter-container">
+      <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search for MP or constituency...">
+    </div>
   </div>
 
   <table id="resultsTable">
     <thead>
       <tr>
-        <th onclick="sortTable(0)">Party</th>
-        <th onclick="sortTable(1)">Constituency</th>
-        <th onclick="sortTable(2, true)">Rental Income</th>
+        <th onclick="sortTable(0)">National party</th>
+        <th onclick="sortTable(1)">Local party</th>
+        <th onclick="sortTable(2, true)">Rental income</th>
         <th onclick="sortTable(3, true)">Tax as a % of rental income</th>
-        <th onclick="sortTable(4)">Rented to MP</th>
+        <th onclick="sortTable(4)">Rented to MP?</th>
         <th onclick="sortTable(5)">MP</th>
       </tr>
     </thead>
@@ -199,6 +280,8 @@ html_content = f"""<!DOCTYPE html>
 
 checked = set()
 missing_tax = 0
+missing_ipsa_tax_single_year = 0
+missing_ipsa_tax_all_years = 0
 rows_added = 0 # Keep track of rows actually added to the HTML table
 
 for row in data_rows:
@@ -230,11 +313,18 @@ for row in data_rows:
 
     # Skip if tax rate exists and is above the threshold
     if tax_rate_float is not None and tax_rate_float > THRESHOLD_RATE:
-        continue
+        continue 
 
     # Calculate missing tax only for rows we are including
     effective_tax_rate = tax_rate_float if tax_rate_float is not None else 0.0
-    missing_tax += rental_income_float * max(0, (0.19 - effective_tax_rate)) # Ensure non-negative difference
+    missing_tax += rental_income_float * max(0, max(0, (EXPECTED_TAX_RATE - effective_tax_rate)))
+    if row.get('rented_to_mp') == "TRUE":
+        missing_ipsa_tax = rental_income_float * max(0, max(0, (EXPECTED_TAX_RATE - effective_tax_rate)))
+        missing_ipsa_tax_single_year += missing_ipsa_tax
+        
+        years_rented = float(row.get('years_rented_to_mp') or 1)
+        missing_ipsa_tax_all_years += missing_ipsa_tax * years_rented
+
 
     # Prepare data for HTML row
     party = html.escape(row.get('entity_name', ''))
@@ -248,10 +338,12 @@ for row in data_rows:
     mp_name = html.escape(row.get('mp_name', ''))
 
     # Determine if the row should be highlighted
-    if tax_rate_float is None or tax_rate_float < HIGHLIGHT_THRESHOLD_RATE:
+    if tax_rate_float is None or tax_rate_float < 0.005:   # basically zero
+        highlight_class_attr = ' class="highlight-no-tax"'
+    elif tax_rate_float < HIGHLIGHT_THRESHOLD_RATE:
         highlight_class_attr = ' class="highlight-low-tax"'
     else:
-        highlight_class_attr = ""
+        highlight_class_attr = ' class="highlight-good-tax"'
 
 
     # Check for duplicates based on constituency and party
@@ -402,7 +494,9 @@ try:
 except Exception as e:
     print(f"\nError writing HTML file: {e}")
 
-print(f"Total approx missing tax (for included rows): £{missing_tax:,.0f}")
+print(f"Total approx missing tax: £{missing_tax:,.0f}")
+print(f"Approx missing ipsa tax for one year: £{missing_ipsa_tax_single_year:,.0f}")
+print(f"Approx missing ipsa tax for all years: £{missing_ipsa_tax_all_years:,.0f}")
 
 # --- SCP Command (Optional) ---
 # Check if server_destination is defined and not empty before running scp

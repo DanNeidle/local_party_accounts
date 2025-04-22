@@ -11,7 +11,7 @@ OUTPUT_CSV = 'analysis_results_checked2.csv'
 
 # --- Helper Functions ---
 
-def normalize_name(text):
+def normalise_constituency_name(text):
     """
     Normalizes constituency/unit names for comparison.
     - Converts to lowercase
@@ -22,7 +22,9 @@ def normalize_name(text):
     """
     if not isinstance(text, str):
         return ""
+    text = text.replace("CLP", "")
     text = text.lower()
+    
     # Remove 'and', '&' as whole words
     text = re.sub(r'\b(and|&)\b', '', text, flags=re.IGNORECASE)
     # Replace variations of 'saint' abbreviation (st. or st followed by space)
@@ -38,7 +40,7 @@ def create_canonical_key(text):
     Normalizes, splits, sorts, and rejoins words to create a key
     that is independent of word order.
     """
-    normalized = normalize_name(text)
+    normalized = normalise_constituency_name(text)
     if not normalized:
         return ""
     words = normalized.split()
@@ -59,13 +61,13 @@ try:
     with open(mp_file_path, mode='r', newline='', encoding='utf-8-sig') as mp_file: # utf-8-sig handles potential BOM
         # Specify comma delimiter
         reader = csv.DictReader(mp_file, delimiter=',')
-        # Check for required headers
-        mp_headers = ['Constituency', 'Name (Display as)', 'Email']
+        
+        mp_headers = ['Constituency', 'Name (Display as)', 'Email', 'Party'] # Added 'Party'
         if not reader.fieldnames:
-             raise ValueError(f"MP list CSV '{MP_LIST_IN}' appears empty or has no headers.")
+            raise ValueError(f"MP list CSV '{MP_LIST_IN}' appears empty or has no headers.")
         if not all(h in reader.fieldnames for h in mp_headers):
-             missing = [h for h in mp_headers if h not in reader.fieldnames]
-             raise ValueError(f"MP list CSV '{MP_LIST_IN}' is missing required columns: {', '.join(missing)}")
+            missing = [h for h in mp_headers if h not in reader.fieldnames]
+            raise ValueError(f"MP list CSV '{MP_LIST_IN}' is missing required columns: {', '.join(missing)}")
 
         count = 0
         duplicates = 0
@@ -74,27 +76,27 @@ try:
             constituency = row.get('Constituency')
             mp_name = row.get('Name (Display as)')
             mp_email = row.get('Email')
+            mp_party = row.get('Party') # Get the party
 
             if not constituency:
                 skipped_no_constituency += 1
-                continue # Skip if constituency name is missing
+                continue
 
-            # Create the canonical key based on sorted words
             canonical_key = create_canonical_key(constituency)
 
-            if canonical_key: # Ensure key generation didn't result in empty string
+            if canonical_key:
                 if canonical_key in mp_data_lookup:
                     print(f"Warning: Duplicate canonical key '{canonical_key}' found for constituency '{constituency}'. Overwriting previous entry.")
                     duplicates += 1
-                # Store the relevant details using the canonical key
+                # Store party along with name and email
                 mp_data_lookup[canonical_key] = {
-                    'name': mp_name or '', # Use blank if name missing
-                    'email': mp_email or '' # Use blank if email missing
+                    'name': mp_name or '',
+                    'email': mp_email or '',
+                    'party': mp_party or '' # Store the party, use blank if missing
                 }
                 count += 1
             else:
-                 print(f"Warning: Could not generate canonical key for constituency: '{constituency}' (Row: {reader.line_num}). Skipping.")
-
+                print(f"Warning: Could not generate canonical key for constituency: '{constituency}' (Row: {reader.line_num}). Skipping.")
 
         print(f"Loaded data for {count} MPs.")
         if duplicates > 0:
@@ -154,28 +156,43 @@ try:
             writer.writeheader()
 
             # Iterate through analysis results rows
+            # Iterate through analysis results rows
             for row in reader:
                 processed_rows += 1
                 unit_name = row.get('unit_name', '')
+                entity_name = row.get('entity_name', '') # Get entity name from analysis row
 
                 # Create the canonical key for the unit name for matching
                 canonical_key_from_analysis = create_canonical_key(unit_name)
 
                 # Look for a match in the MP data lookup using the canonical key
-                mp_info = mp_data_lookup.get(canonical_key_from_analysis) # Use .get for safe lookup
+                mp_info = mp_data_lookup.get(canonical_key_from_analysis)
 
+                match_found = False # Flag to track if a valid match (Constituency + Party) occurs
                 if mp_info:
-                    # Match found - add MP details to the row
-                    row['mp_name'] = mp_info['name']
-                    row['mp_email'] = mp_info['email']
-                    matched_rows += 1
-                else:
-                    # No match found - add blank MP details
+                    # Constituency match found, now check the party
+                    mp_party_lower = mp_info.get('party', '').lower() # Get stored MP party, lowercase
+                    entity_name_lower = entity_name.lower() # Lowercase entity name from analysis row
+
+                    # Check party is not empty AND entity_name is not empty AND party is substring of entity name
+                    if mp_party_lower and entity_name_lower and mp_party_lower in entity_name_lower:
+                        # Both constituency AND party match - add MP details
+                        row['mp_name'] = mp_info['name']
+                        row['mp_email'] = mp_info['email']
+                        matched_rows += 1
+                        match_found = True
+                    
+                    else:
+                        print(f"Constituency match for '{unit_name}', but party '{mp_info.get('party')}' not in entity '{entity_name}'")
+
+
+                if not match_found:
+                    # No constituency match OR constituency matched but party did not: add blank MP details
                     row['mp_name'] = ''
                     row['mp_email'] = ''
-                    # Optional: Log unmatched unit names for investigation
-                    # if unit_name and canonical_key_from_analysis: # Only log if there was something to match
-                    #    print(f"Debug: No match found for unit '{unit_name}' (key: '{canonical_key_from_analysis}')")
+                    # Optional: Log unmatched unit names (if mp_info was None)
+                    # if not mp_info and unit_name and canonical_key_from_analysis:
+                    #    print(f"Debug: No constituency match found for unit '{unit_name}' (key: '{canonical_key_from_analysis}')")
 
 
                 # Write the enriched/original row to the output file
